@@ -45,9 +45,9 @@ Every time the pinball rolls over the button, the score will increase by 350 poi
 
  
 ``` python
-import time # type: ignore
-import board # type: ignore
-import busio  # type: ignore
+import time  
+import board 
+import busio  
 import digitalio
 import displayio
  
@@ -76,7 +76,7 @@ oldbutton_state = 0
 # Setup LCD display
 
 i2c = busio.I2C(scl=i2c_scl, sda=i2c_sda)
-interface = I2CPCF8574Interface(i2c, i2c_address)
+interface = I2CPCF8574Interface(i2c, i2c_address)  #sets up lcd screen
 lcd = LCD(interface, num_rows=rows, num_cols=cols)
 lcd.set_cursor_mode(CursorMode.HIDE)
 
@@ -85,7 +85,7 @@ while True: #if the button is pressed this will happen
           if oldbutton_state == 0:
                score = score + 350 #each time the button is pushed the score increases by 350
                lcd.set_cursor_pos(0, 0)
-               lcd.print(str(score))
+               lcd.print(str(score)) #lcd shows new score
                oldbutton_state = 1 #button was pressed
      else:
           oldbutton_state = 0   #only changes when the button is pressedlcd.print ("word")
