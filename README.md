@@ -3,6 +3,7 @@
 ## Table Of Contents
 * [Planning](#Planning)
 * [Rollover Buttons](#Rollover_Buttons)
+* [LCD](#LCD)
 
 
 
