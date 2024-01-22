@@ -43,6 +43,8 @@ while True: #if the button is pressed this will happen
 
 Every time the pinball rolls over the button, the score will increase by 350 points. I'm working on coding an LCD so that this score will be visible and updated on an LCD screen so people can see their points increase while playing. That's going to be kind of complicated because there are going to be several mechanisms that will need to add to the score as well. 
 
+
+## LCD
  
 ``` python
 import time  
