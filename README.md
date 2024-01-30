@@ -104,7 +104,7 @@ I'm not gonna lie I do not enjoy working with LCDs. This felt really complicated
 
 
 
- for our specific needs it's a bit more complicated because there are a bunch of mechanisms that all need to connect to the
+
 
 
 
