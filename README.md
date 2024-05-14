@@ -4,6 +4,7 @@
 * [Planning](#Planning)
 * [Rollover Buttons](#Rollover_Buttons)
 * [LCD](#LCD)
+* [Final Test](#Final_Test)
 
 
 
@@ -140,6 +141,8 @@ Width:
 
 **Final Product** 
 
+## Weekly Reports 
+
 ## Test Procedure
 ## Final Test
 **In action**
@@ -153,8 +156,7 @@ Width:
 ### Wiring system 
 
 ## Data
-
-## Operating Instructions 
+ 
 
 
 
@@ -190,7 +192,7 @@ while True: #if the button is pressed this will happen
 
 Every time the pinball rolls over the button, the score will increase by 350 points. I'm working on coding an LCD so that this score will be visible and updated on an LCD screen so people can see their points increase while playing. Buttons in general are pretty simple for code, this button is specifically functioning as the point route notches. Each time the pinball runs over them, pressing them down, the lcd screen will update your score by adding 350 points. 
 
-## LCD
+## LCD Code 
  
 ``` python
 import time  
@@ -251,6 +253,9 @@ LCD code was not the highlight of this project for me. This felt really complica
 ## Checking back in
 
 There is now a little less than a month before we present our final project to UVA and our class. Gaby is working on wiring currently and we have been adding layers of spray paint to the outside of the pinball machine. I have been working on the drop shooters and need to use a solenoid as both of those are essential to our project being considered "complete." Not looking forward to presenting in front of everyone but we are working to finish and have an interesting project even if it is more simple than we may have hoped for. 
+
+## Operating Instructions
+
 
 ## Engineering Analysis 
 
