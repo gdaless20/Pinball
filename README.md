@@ -53,52 +53,67 @@ Width:
 
 ## Spinning Plate
 **Materials**
-*
-*
-*
-*
+* example 
+* example 
+* example 
+* example 
+
 **Dimensions**
+
 Height:
+
 Width: 
 
 ## Hot Bumper 
 **Materials**
-*
-*
-*
-*
+* example 
+* example 
+* example
+* example 
+
 **Dimensions**
+
 Height:
+
 Width:
  
 ### Play feild 
 **Materials**
-*
-*
-*
-*
+* example 
+* example 
+* example
+* example 
+
 **Dimensions**
+
 Height:
+
 Width:
 
 ## Flippers 
 **Materials**
-*
-*
-*
-*
+* example 
+* example 
+* example 
+* example 
+
 **Dimensions**
+
 Height:
+
 Width:
 
 ## Rollover_Buttons
 **Materials**
-*
-*
-*
-*
+* example 
+* example 
+* exmaple 
+* example 
+
 **Dimensions**
+
 Height:
+
 Width:
 
 ### Code
