@@ -51,6 +51,10 @@ Height:
 
 Width:
 
+**Mechanisms**
+
+**Final Product**
+
 ## Spinning Plate
 **Materials**
 * example 
@@ -63,6 +67,8 @@ Width:
 Height:
 
 Width: 
+
+**Mechanisms**
 
 **Final Product**
 
@@ -79,6 +85,8 @@ Height:
 
 Width:
 
+**Mechanisms**
+
 **Final Product**
  
 ### Play feild 
@@ -94,7 +102,9 @@ Height:
 
 Width:
 
-### Finaal Product 
+**Mechanism**
+
+**Final Product** 
 
 ## Flippers 
 **Materials**
@@ -108,6 +118,8 @@ Width:
 Height:
 
 Width:
+
+**Mechanism**
 
 **Final Product** 
 
@@ -124,7 +136,24 @@ Height:
 
 Width:
 
-**Finaal Product** 
+**Mechanism**
+
+**Final Product** 
+
+## Circut
+**Circuit Diegram**
+
+## Data
+
+## Operating Instructions 
+
+
+
+
+
+
+## Test Procedure 
+
 
 ### Code
 
@@ -219,7 +248,7 @@ LCD code was not the highlight of this project for me. This felt really complica
 
 There is now a little less than a month before we present our final project to UVA and our class. Gaby is working on wiring currently and we have been adding layers of spray paint to the outside of the pinball machine. I have been working on the drop shooters and need to use a solenoid as both of those are essential to our project being considered "complete." Not looking forward to presenting in front of everyone but we are working to finish and have an interesting project even if it is more simple than we may have hoped for. 
 
-
+## Engineering Analysis 
 
 
 
