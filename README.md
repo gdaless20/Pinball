@@ -16,7 +16,7 @@ Gaby and I first came up with the idea to make a Pinball Machine last year at th
 ## Timeline 
 
 
-### Purchased Parts 
+## Purchased Parts 
 *
 *
 *
@@ -24,7 +24,7 @@ Gaby and I first came up with the idea to make a Pinball Machine last year at th
 *
 *
 
-## Onshape Design 
+### Onshape Design 
 
 ### CAD Imports 
 
