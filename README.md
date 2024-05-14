@@ -43,7 +43,7 @@ blahfhurfrinuieufifiefierhriuerhiufdjfdjfkdjkdjfkdjfkdjfkfkdjfkdjkdjfkdjfkdjfkdj
 
 ### Prototype Diagram
 
-**Exteriro Diagram**
+**Exterior Diagram**
 
 **Interior Diagram**
 
@@ -157,7 +157,7 @@ Width:
 
 **Final Product** 
 
-
+## Used Materials 
 
 ## Weekly Reports 
 
