@@ -64,7 +64,7 @@ Height:
 
 Width: 
 
-### Finaal Product 
+**Final Product**
 
 ## Hot Bumper 
 **Materials**
@@ -79,7 +79,7 @@ Height:
 
 Width:
 
-### Finaal Product 
+**Final Product**
  
 ### Play feild 
 **Materials**
@@ -109,7 +109,7 @@ Height:
 
 Width:
 
-### Finaal Product 
+**Final Product** 
 
 ## Rollover_Buttons
 **Materials**
@@ -124,7 +124,7 @@ Height:
 
 Width:
 
-### Finaal Product 
+**Finaal Product** 
 
 ### Code
 
