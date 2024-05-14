@@ -13,7 +13,7 @@ Gaby and I first came up with the idea to make a Pinball Machine last year at th
 
 ### Notes 
 
-## Timeline 
+### Timeline 
 
 
 ## Purchased Parts 
@@ -27,6 +27,29 @@ Gaby and I first came up with the idea to make a Pinball Machine last year at th
 ## Onshape Design 
 
 ### CAD Imports 
+*
+*
+*
+*
+*
+### Notes for/from documents 
+### References 
+
+## Prototype 
+### Dimensions 
+
+## Base
+### Materials  
+### Dimensions 
+## Spinning Plate
+### Materials
+### Dimensions 
+## Hot umper 
+### Materials 
+### Bumpers 
+## Flippers 
+### Materials 
+### Dimensions 
 
 ## Rollover_Buttons
 
