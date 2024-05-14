@@ -140,8 +140,17 @@ Width:
 
 **Final Product** 
 
+## Test Procedure
+## Final Test
+**In action**
+
+
+## Issues 
+
+
 ## Circut
-**Circuit Diegram**
+**Circuit Diagram**
+### Wiring system 
 
 ## Data
 
@@ -150,12 +159,7 @@ Width:
 
 
 
-
-
-## Test Procedure 
-
-
-### Code
+###  Final Code
 
 ``` python
 import time #imports
