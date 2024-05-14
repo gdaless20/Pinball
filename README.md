@@ -40,10 +40,10 @@ Gaby and I first came up with the idea to make a Pinball Machine last year at th
 
 ## Base
 **Materials**
-* exmaple 
-* example 
-* example 
-* example 
+*  
+*  
+*  
+*  
 
 **Dimensions** 
 
