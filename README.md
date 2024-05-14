@@ -37,6 +37,13 @@ Gaby and I first came up with the idea to make a Pinball Machine last year at th
 ### References 
 
 ## Prototype 
+blahfhurfrinuieufifiefierhriuerhiufdjfdjfkdjkdjfkdjfkdjfkfkdjfkdjkdjfkdjfkdjfkdjfkdjkdjfkdjfkdjfkdjfkdjfdkjfkdjfirhghijfidjfijcrijutjfiedjiejdiejfeiheidheiifhieoeoeosfei
+**Dimensions:**
+
+Base:
+
+Height:
+
 **Intial design** 
 
 ## Base
