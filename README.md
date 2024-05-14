@@ -36,22 +36,67 @@ Gaby and I first came up with the idea to make a Pinball Machine last year at th
 ### References 
 
 ## Prototype 
-### Dimensions 
+**Intial design** 
 
 ## Base
-### Materials  
-### Dimensions 
+**Materials**
+*
+*
+*
+*
+**Dimensions** 
+Height:
+Width:
+
 ## Spinning Plate
-### Materials
-### Dimensions 
-## Hot umper 
-### Materials 
-### Bumpers 
+**Materials**
+*
+*
+*
+*
+**Dimensions**
+Height:
+Width: 
+
+## Hot Bumper 
+**Materials**
+*
+*
+*
+*
+**Dimensions**
+Height:
+Width:
+ 
+### Play feild 
+**Materials**
+*
+*
+*
+*
+**Dimensions**
+Height:
+Width:
+
 ## Flippers 
-### Materials 
-### Dimensions 
+**Materials**
+*
+*
+*
+*
+**Dimensions**
+Height:
+Width:
 
 ## Rollover_Buttons
+**Materials**
+*
+*
+*
+*
+**Dimensions**
+Height:
+Width:
 
 ### Code
 
