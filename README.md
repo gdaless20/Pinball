@@ -158,6 +158,10 @@ Width:
 **Final Product** 
 
 ## Used Materials 
+* example 
+* example
+* example
+* example
 
 ## Weekly Reports 
 
