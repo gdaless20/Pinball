@@ -167,7 +167,13 @@ Width:
 ## Issues 
 ### Brainstorming 
 
+
 ## Schedule 
+* Deadline: April 1 (guess)
+  * example
+  * exmaple
+  * example
+  * example
 
 ## Circut
 **Circuit Diagram**
