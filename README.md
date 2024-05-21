@@ -19,17 +19,25 @@ Gaby and I first came up with the idea to make a Pinball Machine last year at th
 ### Timeline 
 
 September - November: Planning, weeding out ideas, narrowing our design
+
 November - January: Doing code, making Spinny Plate and installing it in our base
-January - Wiring LCD, pouring resin playfield, spraypainting base black
+
+January: Wiring LCD, pouring resin playfield, spraypainting base black
+
+February - March: Not much progress on project (huge mistake) 
+
+April - Buying final parts, redoing spinny plate because it vanished
+
+May - Rushing to do most of the physical project, trouble shooting wiring issues, assembling full project
 
 
 ## Purchased Parts 
-*
-*
-*
-*
-*
-*
+* Resin set ($25?)
+* Pop Bumper kit ($61.52)
+* Wood for top of machine ($4)
+* Spraypaint ($8)
+* Two 12V batteries and wire ($44.87)
+* LEDS ($8)
 
 
 ## Onshape Design 
