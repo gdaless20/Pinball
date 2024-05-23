@@ -45,32 +45,6 @@ May - Rushing to do most of the physical project, trouble shooting wiring issues
 * Two 12V batteries and wire ($44.87)
 * LEDS ($8)
 
-
-## Onshape Design 
-### CAD Imports 
-*
-*
-*
-*
-*
-### Notes for/from documents 
-### References 
-
-## Prototype 
-blahfhurfrinuieufifiefierhriuerhiufdjfdjfkdjkdjfkdjfkdjfkfkdjfkdjkdjfkdjfkdjfkdjfkdjkdjfkdjfkdjfkdjfkdjfdkjfkdjfirhghijfidjfijcrijutjfiedjiejdiejfeiheidheiifhieoeoeosfei
-
-### Prototype Diagram
-
-**Exterior Diagram**
-
-**Interior Diagram**
-
-**Dimensions:**
-
-Base:
-
-Height:
-
 **Intial design** 
 
 ## Base
@@ -80,15 +54,29 @@ Height:
 *  exmaple
 *  exmaple
 
+**Cad Design**
+
+
+**Drawings**
+
+
 **Dimensions** 
 
 Height:
 
 Width:
 
-**Mechanisms**
+**How We Did It**
+
+
+**Code Used**
+
 
 **Final Product**
+
+
+
+
 
 ## Spinning Plate
 **Materials**
