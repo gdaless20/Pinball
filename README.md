@@ -2,27 +2,28 @@
 
 ## Table Of Contents
 * [Planning](#Planning)
-* [Timeline]
-* [Material Overview]
-* [Pop Bumper]
-* [LCD](#LCD)
-* [Flippers]
-* [Base]
-* [Spinning Plate]
-* [Shooter Lane + Plunger]
-* [Operating Intstructions]
+* [Timeline](#Timeline)
+* [Purchased Parts](#Bill)
+* [Key Components](#Key_Components)
+* [Weekly Check Ins](#Weekly_Check_Ins)
+* [Operating Intstructions](#)
+* [Engineering Analysis](#)
 
 
 
 ## Planning
 
+### Introduction 
 Gaby and I first came up with the idea to make a Pinball Machine last year at the end of Engineering 4 when we had completed our rocket and were looking for an exciting Capstone project. To begin planning, we made a slideshow with all our essential and nonessential requirements for our project and laid out our plans for how the machine should work and all the necessary steps beforehand. [Here's a link to the Pinball Slideshow](https://docs.google.com/presentation/d/1-0p-8omO62feyVH7SRMGAjvP5zyLEiNpoB7CkiigmQg/edit?usp=sharing). 
+### Diagrams 
+### Physical Diagram
+### Revised Plan
 
-### Notes 
 
-(diagram here)
 
-### Timeline 
+## Timeline 
+
+*Initial*
 
 September - November: Planning, weeding out ideas, narrowing our design
 
@@ -36,8 +37,10 @@ April - Buying final parts, redoing spinny plate because it vanished
 
 May - Rushing to do most of the physical project, trouble shooting wiring issues, assembling full project
 
+*Revised*
 
-## Purchased Parts 
+
+## Bill 
 * Resin set ($25?)
 * Pop Bumper kit ($61.52)
 * Wood for top of machine ($4)
@@ -45,155 +48,63 @@ May - Rushing to do most of the physical project, trouble shooting wiring issues
 * Two 12V batteries and wire ($44.87)
 * LEDS ($8)
 
-**Intial design** 
 
-## Base
-**Materials**
-*  example 
-*  example 
-*  exmaple
-*  exmaple
+## Key Components 
 
-**Cad Design**
+### Base & Playfield 
+#### Materials ####
+#### Cad Design ####
+#### Drawings ####
+#### How We Did It ####
+#### Code Used ####
+#### Final Product ####
 
+### LCD
+#### Materials ####
+#### Cad Design ####
+#### Drawings ####
+#### How We Did It ####
+#### Code Used ####
+#### Final Product ####
 
-**Drawings**
+### Spinning Plate
+#### Materials ####
+#### Cad Design ####
+#### Drawings ####
+#### How We Did It ####
+#### Code Used ####
+#### Final Product ####
 
+### Pop Bumper 
+#### Materials ####
+#### Cad Design ####
+#### Drawings ####
+#### How We Did It ####
+#### Code Used ####
+#### Final Product ####
 
-**Dimensions** 
-
-Height:
-
-Width:
-
-**How We Did It**
-
-
-**Code Used**
-
-
-**Final Product**
-
-
-
-
-
-## Spinning Plate
-**Materials**
-* example 
-* example 
-* example 
-* example 
-
-**Dimensions**
-
-Height:
-
-Width: 
-
-**Mechanisms**
-
-**Final Product**
-
-## Hot Bumper 
-**Materials**
-* example 
-* example 
-* example
-* example 
-
-**Dimensions**
-
-Height:
-
-Width:
-
-**Mechanisms**
-
-**Final Product**
  
-### Play feild 
-**Materials**
-* example 
-* example 
-* example
-* example 
 
-**Dimensions**
+### Flippers 
+#### Materials ####
+#### Cad Design ####
+#### Drawings ####
+#### How We Did It ####
+#### Code Used ####
+#### Final Product ####
 
-Height:
-
-Width:
-
-**Mechanism**
-
-**Final Product** 
-
-## Flippers 
-**Materials**
-* example 
-* example 
-* example 
-* example 
-
-**Dimensions**
-
-Height:
-
-Width:
-
-**Mechanism**
-
-**Final Product** 
-
-## Rollover_Buttons
-**Materials**
-* example 
-* example 
-* exmaple 
-* example 
-
-**Dimensions**
-
-Height:
-
-Width:
-
-**Mechanism**
-
-**Final Product** 
-
-## Used Materials 
-* example 
-* example
-* example
-* example
-
-## Weekly Reports 
-
-## Test Procedure
-## Final Test
-**In action**
+### Shooter Lane & Plunger 
+#### Materials ####
+#### Cad Design ####
+#### Drawings ####
+#### How We Did It ####
+#### Code Used ####
+#### Final Product ####
 
 
-## Issues 
-### Brainstorming 
+## Weekly Check-Ins 
 
 
-
-## Schedule 
-* Deadline: April 1 (guess)
-  * example
-  * exmaple
-  * example
-  * example
-
-## Circut
-**Circuit Diagram**
-### Wiring system 
-
-## Data
- 
 
 
 
@@ -286,12 +197,8 @@ while True: #if the button is pressed this will happen
 
 LCD code was not the highlight of this project for me. This felt really complicated but to be honest starting out what took me the most time to get the LCD code going was simply finding the right libraries to download. I had never used an LCD code before and had no idea where to start out but I used several different websites online (linked in code) to get a feel for how the code needed to be organized and what each aspect did. I used an LCD backpack so the wiring was almost non-existent which was really nice for time, energy, and organization. Using the links I setup the libraries to the LCD and addressed everything so each part would be recognized and run smoothly between the code and LCD itself. Then I added in my code from the button because I need the points scored to show up on the display. To incorporate the points being added to the score on display, I made score a variable and set it to 0 when you start, I was able to then use an equation to make it so that each time the button was pressed, 350 points would be added to the score and stay there until added to again. 
 
-
-## Checking back in
-
 There is now a little less than a month before we present our final project to UVA and our class. Gaby is working on wiring currently and we have been adding layers of spray paint to the outside of the pinball machine. I have been working on the drop shooters and need to use a solenoid as both of those are essential to our project being considered "complete." Not looking forward to presenting in front of everyone but we are working to finish and have an interesting project even if it is more simple than we may have hoped for. 
 
-## Bill of materials
 
 
 ## Operating Instructions
