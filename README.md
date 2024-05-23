@@ -2,9 +2,15 @@
 
 ## Table Of Contents
 * [Planning](#Planning)
-* [Rollover Buttons](#Rollover_Buttons)
+* [Timeline]
+* [Material Overview]
+* [Pop Bumper]
 * [LCD](#LCD)
-* [Final Test](#Final_Test)
+* [Flippers]
+* [Base]
+* [Spinning Plate]
+* [Shooter Lane + Plunger]
+* [Operating Intstructions]
 
 
 
