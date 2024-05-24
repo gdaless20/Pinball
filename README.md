@@ -34,11 +34,23 @@ This image highlights a fascinating mechanical aspect that caught our attention.
 This image highlights another intriguing mechanical aspect that caught our eye. We set a goal to include a solenoid in our final design for its simplicity and ease of installation.
 
 #### Drawn Diagrams 
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5652.jpg" height="200"> 
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5653.jpg" height="200">
+
+We were faced with a decision between two base designs. The first option was a freestanding design, which would have provided a more cohesive and professional look. However, it required more materials and presented potential transportation issues. On the other hand, the tabletop design required less wood, resulting in cost savings. Ultimately, we opted for the tabletop design, especially since we already had a pinball base, making it the most practical choice.
+
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5654.jpg" height="300">
+
+To determine the features for our pinball machine, we sketched out three of our favorite designs and selected a standout feature from each. Ultimately, we settled on incorporating a pop bumper, a spinning plate, and originally considered including both targets and rollover buttons. However, due to significant procrastination and the need to revise our timeline, we decided to forgo the last two features. Additionally, although not depicted here, we also felt it was crucial to include a scoring system for the pop bumper, which involved a "simple" LCD connection.
+
 
 #### Physical Models
 <img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_3519.png" height="600">
+
 This cardboard and hot glue creation was inspired by the fundamental design principles of freestanding pinball machines, similar to the arcade setups found in Decades Arcade. While not our final choice, this design provided key insights into base design. We ultimately utilized a premade base from Ms. Gibson, which perfectly suited our needs for the finished product.
+
 <img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_3517.png" height="600">
+
 This meticulous planning phase aimed to identify our preferences and assess feasibility within a one-year timeframe. Our design encompassed a plethora of features including pop-bumpers, rails, triangle bumpers, rollover buttons, targets, and a spinning plate, although the latter proved to be overly cramped. Ultimately, due to self-imposed time constraints, we streamlined our selection to include a pop-bumper and a spinning plate.
 
 #### Revised Plan
@@ -47,21 +59,33 @@ This meticulous planning phase aimed to identify our preferences and assess feas
 
 ## Timeline 
 
-*Initial*
+***Initial***
 
-September - November: Planning, weeding out ideas, narrowing our design
+September - October: Planning, weeding out ideas, narrowing our design
 
-November - January: Doing code, making Spinny Plate and installing it in our base
+November - December: Doing code, making spinning Plate and installing it in our base
+
+January: Wiring LCD, pouring resin playfield, spraypainting base black
+
+February - March: Installing rollover buttons, printing and installing targets, installing a master power source
+
+April: Finishing final aspects, making sure all code works when connected, testing and refinement
+
+May: Final Touches, Presentation
+
+***Revised schedule due to issues around Febuary and March***
+
+September - October: Planning, weeding out ideas, narrowing our design
+
+November - December: Doing code, making spinning plate and installing it in our base
 
 January: Wiring LCD, pouring resin playfield, spraypainting base black
 
 February - March: Not much progress on project (huge mistake) 
 
-April - Buying final parts, redoing spinny plate because it vanished
+April - Buying final parts, redoing spinning plate because it was stolen!!!
 
 May - Rushing to do most of the physical project, trouble shooting wiring issues, assembling full project
-
-*Revised*
 
 
 ## Bill 
