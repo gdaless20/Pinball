@@ -92,7 +92,8 @@ May: Rushing to do most of the physical project, troubleshooting wiring issues, 
 
 
 ## Bill 
-* Resin Set -> $25.99
+* Motor -> $12.99
+* Resin Kit -> $12.99
 * Pop Bumper Kit -> $60.00
 * Spraypaint -> $8.39
 * LEDS -> $5.55
@@ -117,6 +118,8 @@ Total= $99.93
 * Mixing Cups
 * Scale
 * WD-40
+* Drill
+* Screws
 
 #### Cad Design ####
 No CAD components needed for this portion of the pinball machine. The pinball base was provided complete and the playfield consisted of resin pouring. 
@@ -176,109 +179,19 @@ Overall the base and the playfeild were mainly stylistic and didnt require too m
 
 ### LCD
 #### Materials ####
-#### Cad Design ####
-#### Drawings ####
-#### How We Did It ####
-#### Code & Wiring ####
-#### Final Product ####
-
-### Spinning Plate
-#### Materials ####
-#### Cad Design ####
-#### Drawings ####
-#### How We Did It ####
-#### Code & Wiring ####
-#### Final Product ####
-
-### Pop Bumper 
-#### Materials ####
-#### Cad Design ####
-#### Drawings ####
-#### How We Did It ####
-#### Code & Wiring ####
-#### Final Product ####
-
-### Flippers 
-#### Materials ####
-#### Cad Design ####
-#### Drawings ####
-#### How We Did It ####
-#### Code & Wiring ####
-No code was used for this portion of our final project.
-#### Final Product ####
-
-### Shooter Lane & Plunger 
-#### Materials ####
+* Wire
+* LCD
+* Pico
+* Breadboard
+* Clay
+* USB Cord
 #### Cad Design ####
 No CAD components needed for this portion of the pinball machine.
 #### Drawings ####
 #### How We Did It ####
 #### Code & Wiring ####
-No code was used for this portion of our final project.
 
-#### Final Product ####
-
-
-## Check-Ins 
-
-
-## Instructions
-
-
-## Analysis 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###  Final Code
-
-``` python
-import time #imports
-import board
-import digitalio
-
-led1 = digitalio.DigitalInOut(board.GP15) #pins 
-led1.direction = digitalio.Direction.OUTPUT
-led2 = digitalio.DigitalInOut(board.GP17)
-led2.direction = digitalio.Direction.OUTPUT
-button = digitalio.DigitalInOut(board.GP16) #adds in the button
-button.direction = digitalio.Direction.INPUT
-button.pull = digitalio.Pull.UP #incorperates the button into the circuit
-
-score = 0   #base value starts score at 0
-oldbutton_state = 0
-
-
-while True: #if the button is pressed this will happen
-     if button.value == False: #if pressed
-          if oldbutton_state == 0:
-               score = score + 350 #each time the button is pushed the score increases by 350
-               print(score)
-               oldbutton_state = 1 #button was pressed
-     else:
-          oldbutton_state = 0   #only changes when the button is pressed
-```
-
-Every time the pinball rolls over the button, the score will increase by 350 points. I'm working on coding an LCD so that this score will be visible and updated on an LCD screen so people can see their points increase while playing. Buttons in general are pretty simple for code, this button is specifically functioning as the point route notches. Each time the pinball runs over them, pressing them down, the lcd screen will update your score by adding 350 points. 
-
-## LCD Code 
- 
+*Code* 
 ``` python
 import time  
 import board 
@@ -333,6 +246,140 @@ while True: #if the button is pressed this will happen
 ```
 
 LCD code was not the highlight of this project for me. This felt really complicated but to be honest starting out what took me the most time to get the LCD code going was simply finding the right libraries to download. I had never used an LCD code before and had no idea where to start out but I used several different websites online (linked in code) to get a feel for how the code needed to be organized and what each aspect did. I used an LCD backpack so the wiring was almost non-existent which was really nice for time, energy, and organization. Using the links I setup the libraries to the LCD and addressed everything so each part would be recognized and run smoothly between the code and LCD itself. Then I added in my code from the button because I need the points scored to show up on the display. To incorporate the points being added to the score on display, I made score a variable and set it to 0 when you start, I was able to then use an equation to make it so that each time the button was pressed, 350 points would be added to the score and stay there until added to again. 
+
+*Wiring*
+
+
+#### Final Product ####
+
+### Spinning Plate
+#### Materials ####
+* Acrylic
+* Laser Cutter
+* Motor
+* Clay
+* E600
+* Wire
+* Batteries
+* Battery Pack
+* Soldering Iron
+* Switch
+#### Cad Design ####
+#### Drawings ####
+#### How We Did It ####
+#### Code & Wiring ####
+#### Final Product ####
+
+### Pop Bumper 
+#### Materials ####
+* Pop Bumper Kit
+* Power Source
+* Micro Switches
+* Metal Shears
+* Wires
+* LCD Setup
+* Soldering Iron
+* Drill
+* Screws
+  
+#### Cad Design ####
+We orignally used CAD to create a model of where to drill holes into the pinball machine which is shown below. In the end we went with a pre-bougght setup as we were struggling to create out own setup.
+<img src=" " height="200">
+
+#### Drawings ####
+#### How We Did It ####
+#### Code & Wiring ####
+#### Final Product ####
+
+### Flippers 
+#### Materials ####
+* Resin
+* Micah Powder
+* Molding Kit
+* Drill
+* 3D Printer
+* Belt Sander
+* Dremel
+* Hot Glue
+#### Cad Design ####
+#### Drawings ####
+#### How We Did It ####
+#### Code & Wiring ####
+No code was used for this portion of our final project.
+#### Final Product ####
+
+### Shooter Lane & Plunger 
+#### Materials ####
+* Sandpaper
+* Bike Chain Grease
+#### Cad Design ####
+No CAD components needed for this portion of the pinball machine.
+#### Drawings ####
+#### How We Did It ####
+#### Code & Wiring ####
+No code was used for this portion of our final project.
+
+#### Final Product ####
+
+
+## Check-Ins 
+
+
+## Instructions
+
+
+## Analysis 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### DO WE STILL NEED THIS?
+
+``` python
+import time #imports
+import board
+import digitalio
+
+led1 = digitalio.DigitalInOut(board.GP15) #pins 
+led1.direction = digitalio.Direction.OUTPUT
+led2 = digitalio.DigitalInOut(board.GP17)
+led2.direction = digitalio.Direction.OUTPUT
+button = digitalio.DigitalInOut(board.GP16) #adds in the button
+button.direction = digitalio.Direction.INPUT
+button.pull = digitalio.Pull.UP #incorperates the button into the circuit
+
+score = 0   #base value starts score at 0
+oldbutton_state = 0
+
+
+while True: #if the button is pressed this will happen
+     if button.value == False: #if pressed
+          if oldbutton_state == 0:
+               score = score + 350 #each time the button is pushed the score increases by 350
+               print(score)
+               oldbutton_state = 1 #button was pressed
+     else:
+          oldbutton_state = 0   #only changes when the button is pressed
+```
+
+Every time the pinball rolls over the button, the score will increase by 350 points. I'm working on coding an LCD so that this score will be visible and updated on an LCD screen so people can see their points increase while playing. Buttons in general are pretty simple for code, this button is specifically functioning as the point route notches. Each time the pinball runs over them, pressing them down, the lcd screen will update your score by adding 350 points. 
+
 
 There is now a little less than a month before we present our final project to UVA and our class. Gaby is working on wiring currently and we have been adding layers of spray paint to the outside of the pinball machine. I have been working on the drop shooters and need to use a solenoid as both of those are essential to our project being considered "complete." Not looking forward to presenting in front of everyone but we are working to finish and have an interesting project even if it is more simple than we may have hoped for. 
 
