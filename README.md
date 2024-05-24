@@ -21,7 +21,11 @@ Gaby and I first came up with the idea to make a Pinball Machine last year at th
 
 #### Diagrams 
 
-#### Physical Diagram
+#### Physical Diagrams
+![Base](https://github.com/elynch78/Pinball/blob/main/images/IMG_3519.png)
+This cardboard and hot glue creation was inspired by the fundamental design principles of freestanding pinball machines, similar to the arcade setups found in Decades Arcade. While not our final choice, this design provided key insights into base design. We ultimately utilized a premade base from Ms. Gibson, which perfectly suited our needs for the finished product.
+![Aspects](https://github.com/elynch78/Pinball/blob/main/images/IMG_3517.png)
+This meticulous planning phase aimed to identify our preferences and assess feasibility within a one-year timeframe. Our design encompassed a plethora of features including pop-bumpers, rails, triangle bumpers, rollover buttons, targets, and a spinning plate, although the latter proved to be overly cramped. Ultimately, due to self-imposed time constraints, we streamlined our selection to include a pop-bumper and a spinning plate.
 
 #### Revised Plan
 
