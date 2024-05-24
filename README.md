@@ -55,6 +55,9 @@ This meticulous planning phase aimed to identify our preferences and assess feas
 
 #### Revised Plan
 
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5656.JPG" height="600">
+
+After careful consideration, we finalized the design for our pinball machine. The features we incorporated include the pop bumper, spinning plate, flippers, shooter lane, plunger, and a panel of wood with added lights underneath to create a stunning reflection on our resin playfield and the table top base design. As an additional touch, we installed an LCD on top of the wood plank to elegantly display the score.
 
 
 ## Timeline 
@@ -63,7 +66,7 @@ This meticulous planning phase aimed to identify our preferences and assess feas
 
 September - October: Planning, weeding out ideas, narrowing our design
 
-November - December: Doing code, making spinning Plate and installing it in our base
+November - December: Doing code, making spinning plate, and installing it in our base
 
 January: Wiring LCD, pouring resin playfield, spraypainting base black
 
@@ -73,34 +76,36 @@ April: Finishing final aspects, making sure all code works when connected, testi
 
 May: Final Touches, Presentation
 
-***Revised schedule due to issues around Febuary and March***
+***Revised Schedule***
 
 September - October: Planning, weeding out ideas, narrowing our design
 
-November - December: Doing code, making spinning plate and installing it in our base
+November - December: Doing code, making a spinning plate, and installing it in our base
 
 January: Wiring LCD, pouring resin playfield, spraypainting base black
 
-February - March: Not much progress on project (huge mistake) 
+February - March: Not much progress on the project (huge mistake) 
 
-April - Buying final parts, redoing spinning plate because it was stolen!!!
+April: Buying final parts, redoing spinning plate because it was stolen!!!
 
-May - Rushing to do most of the physical project, trouble shooting wiring issues, assembling full project
+May: Rushing to do most of the physical project, troubleshooting wiring issues, assembling the full project
 
 
 ## Bill 
-* Resin set ($25?)
-* Pop Bumper kit ($61.52)
-* Wood for top of machine ($4)
-* Spraypaint ($8)
-* Two 12V batteries and wire ($44.87)
-* LEDS ($8)
+* Resin Set -> $25.99
+* Pop Bumper Kit -> $60.00
+* Spraypaint -> $8.39
+* LEDS -> $5.55
 
+Total= $99.93
+*We were fortunate that all other materials either came from the lab or were readily available around both of our homes.*
 
 ## Components 
 
 ### Base & Playfield 
 #### Materials ####
+* Resin 
+* Micah Powder
 #### Cad Design ####
 #### Drawings ####
 #### How We Did It ####
