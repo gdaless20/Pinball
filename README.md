@@ -1,23 +1,24 @@
-# Pinball Machine
+# Pinball Machine 
+*Gabriella D'Alessio & Ellen Lynch*
 
 ## Table Of Contents
 * [Planning](#Planning)
 * [Timeline](#Timeline)
 * [Purchased Parts](#Bill)
-* [Key Components](#Key_Components)
-* [Weekly Check Ins](#Weekly_Check_Ins)
-* [Operating Intstructions](#)
-* [Engineering Analysis](#)
+* [Key Components](#Components)
+* [Weekly Check Ins](#Check-Ins)
+* [Operating Intstructions](#Instructions)
+* [Engineering Analysis](#Analysis)
 
 
 
 ## Planning
 
-### Introduction 
+#### Introduction 
 Gaby and I first came up with the idea to make a Pinball Machine last year at the end of Engineering 4 when we had completed our rocket and were looking for an exciting Capstone project. To begin planning, we made a slideshow with all our essential and nonessential requirements for our project and laid out our plans for how the machine should work and all the necessary steps beforehand. [Here's a link to the Pinball Slideshow](https://docs.google.com/presentation/d/1-0p-8omO62feyVH7SRMGAjvP5zyLEiNpoB7CkiigmQg/edit?usp=sharing). 
-### Diagrams 
-### Physical Diagram
-### Revised Plan
+#### Diagrams 
+#### Physical Diagram
+#### Revised Plan
 
 
 
@@ -49,7 +50,7 @@ May - Rushing to do most of the physical project, trouble shooting wiring issues
 * LEDS ($8)
 
 
-## Key_Components 
+## Components 
 
 ### Base & Playfield 
 #### Materials ####
@@ -83,8 +84,6 @@ May - Rushing to do most of the physical project, trouble shooting wiring issues
 #### Code Used ####
 #### Final Product ####
 
- 
-
 ### Flippers 
 #### Materials ####
 #### Cad Design ####
@@ -102,7 +101,27 @@ May - Rushing to do most of the physical project, trouble shooting wiring issues
 #### Final Product ####
 
 
-## Weekly Check-Ins 
+## Check-Ins 
+
+
+## Instructions
+
+
+## Analysis 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -200,11 +219,6 @@ LCD code was not the highlight of this project for me. This felt really complica
 There is now a little less than a month before we present our final project to UVA and our class. Gaby is working on wiring currently and we have been adding layers of spray paint to the outside of the pinball machine. I have been working on the drop shooters and need to use a solenoid as both of those are essential to our project being considered "complete." Not looking forward to presenting in front of everyone but we are working to finish and have an interesting project even if it is more simple than we may have hoped for. 
 
 
-
-## Operating Instructions
-
-
-## Engineering Analysis 
 
 
 
