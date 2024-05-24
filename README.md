@@ -17,14 +17,28 @@
 #### Introduction 
 Gaby and I first came up with the idea to make a Pinball Machine last year at the end of Engineering 4 when we had completed our rocket and were looking for an exciting Capstone project. To begin planning, we made a slideshow with all our essential and nonessential requirements for our project and laid out our plans for how the machine should work and all the necessary steps beforehand. [Here's a link to the Pinball Slideshow](https://docs.google.com/presentation/d/1-0p-8omO62feyVH7SRMGAjvP5zyLEiNpoB7CkiigmQg/edit?usp=sharing). 
 
-#### Image Inspiration 
+#### Inspiration 
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_3283.png" height="600">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_3288.png" height="600">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_3290.png" height="600">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_3300.png" height="600">
 
-#### Diagrams 
+We captured these images at Decades Arcade to gain valuable insights into the diverse features of pinball machines. While we understood that replicating every aspect might not be feasible, we aimed to incorporate our favorite elements from each machine. The spinning plate particularly stood out as uniquely captivating, inspiring us to integrate it into our own design.
 
-#### Physical Diagrams
-![Base](https://github.com/elynch78/Pinball/blob/main/images/IMG_3519.png)
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_3218.png" height="600">
+
+This image highlights a fascinating mechanical aspect that caught our attention. The switches employed enable circuit completion with just slight pressure—a feature we found particularly intriguing. In our final design, we opted to incorporate micro switches similar to these, inspired by their efficiency, functionality and ease of installation.
+
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_3220.png" height="600">
+
+This image highlights another intriguing mechanical aspect that caught our eye. We set a goal to include a solenoid in our final design for its simplicity and ease of installation.
+
+#### Drawn Diagrams 
+
+#### Physical Models
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_3519.png" height="600">
 This cardboard and hot glue creation was inspired by the fundamental design principles of freestanding pinball machines, similar to the arcade setups found in Decades Arcade. While not our final choice, this design provided key insights into base design. We ultimately utilized a premade base from Ms. Gibson, which perfectly suited our needs for the finished product.
-![Aspects](https://github.com/elynch78/Pinball/blob/main/images/IMG_3517.png)
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_3517.png" height="600">
 This meticulous planning phase aimed to identify our preferences and assess feasibility within a one-year timeframe. Our design encompassed a plethora of features including pop-bumpers, rails, triangle bumpers, rollover buttons, targets, and a spinning plate, although the latter proved to be overly cramped. Ultimately, due to self-imposed time constraints, we streamlined our selection to include a pop-bumper and a spinning plate.
 
 #### Revised Plan
