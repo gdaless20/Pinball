@@ -122,44 +122,55 @@ Total= $99.93
 No CAD components needed for this portion of the pinball machine. The pinball base was provided complete and the playfield consisted of resin pouring. 
 
 #### Drawings ####
-
+<img src=" " height="200">
+This diagram outlined our plans for stylizing the exterior and key aspects of the machine.
 
 #### How We Did It ####
 
 *Play Field*
-We first started out by using a resin kit from amazon and did some research on the best techniques for resin pouring as neither of us had done it before
+To start, we opted for a resin kit purchased from Amazon and dedicated time to researching the most effective techniques for resin pouring. This was uncharted territory for both of us, and we were eager to learn and apply our newfound knowledge.
 <img src=" " height="200">
 
-We used a scale to mix out even parts of both the resin and the hardner then mixed in grey micah powder. We ended up using 80gs of both the resin and hardner for the playfeild alone. 
+We used a scale to ensure equal parts of both the resin and the hardener, and then mixed in grey mica powder. We ended up using 80 grams of both the resin and hardener for the playing field alone.
 <img src=" " height="200">
 
-We poured the first coat of grey resin then allowed it to rest for at least 48 hours.
+We applied the initial layer of grey resin and let it cure for a minimum of 48 hours.
 <img src=" " height="200">
 
-After the first coat we went in with a thicker clear coat to cover any uneven spots. We had also found that by using small spurts of WD-40 over the surface the oils would cause the resin to create an amazing moon like design which is how we ended up changing out theme from terminator to the moon as we found it would be more unique.
+After applying the first coat, we applied a thicker clear coat to cover any uneven spots. We discovered that by using small spurts of WD-40 over the surface, the oils caused the resin to create an amazing moon-like design. This unexpected result led us to change our theme from terminator to the moon, as we found it to be more unique.
 <img src=" " height="200">
 
-We sanded down the area near the shooter lane so the ball would smoothy roll onto the field without any resistance.
+We then sanded down the area near the shooter lane to ensure that the ball would smoothly roll onto the field without any resistance.
 <img src=" " height="200">
 
 *Base*
 
-For the base we started by using a white primer paint to coat the entire outside and inner walls of the pinball machine. This process came before the pouring of the playfeild in case any paint spilt over. We then covered the top of the pinball machine with tape and towels inorder to prepare for the coat of black spray paint.
+To start off, we applied a white primer paint to coat both the exterior and interior walls of the pinball machine. This step was taken before pouring the playfield to prevent any paint spillage. Following that, we covered the top of the pinball machine with tape and towels in preparation for the application of black spray paint.
+<img src=" " height="200">
 <img src=" " height="200">
 
-We ended up having to do two or three coats of paint before we reached a color that was opaque enough. 
+We had to apply two or three coats of paint before achieving the desired level of opacity for the color.
 <img src=" " height="200">
 
-Simloutaniously throughtout this proccess we were prepping other parts of the pinball machine like the top board for the pinball machine. It was thanfully a perfect fit so all we had to do for preparation was spraypaint the wood black.
+Simloutaniously throughtout this proccess we were prepping other parts of the pinball machine like the top board for the pinball machine. It was thanfully a perfect fit so all we had to do for preparation was spraypaint the wood black. 
 <img src=" " height="200">
 
-Once everything had dried 
+Once everything had dried, we installed metal guards at the back to enable the pinball machine to smoothly curve around its top.
+<img src=" " height="200">
+
+Then we secured the wood plank to the pinball machine using screws and a drill. Before installation, we attached the LED lights to the underside of the plank.
+<img src=" " height="200">
+
+Finally, we attached the wooden legs that came with the pinball machine using screws and a drill.
+<img src=" " height="200">
 
 
 #### Code & Wiring ####
 No code was used for this portion of our final project.
 
 #### Final Product ####
+Overall the base and the playfeild were mainly stylistic and didnt require too much work. That being said we were able to gain new skills like how to use resin as neither of us had ever used it prior. It took around 2 months to entierly finish both of these aspects.
+<img src=" " height="200">
 
 
 
@@ -193,14 +204,18 @@ No code was used for this portion of our final project.
 #### Drawings ####
 #### How We Did It ####
 #### Code & Wiring ####
+No code was used for this portion of our final project.
 #### Final Product ####
 
 ### Shooter Lane & Plunger 
 #### Materials ####
 #### Cad Design ####
+No CAD components needed for this portion of the pinball machine.
 #### Drawings ####
 #### How We Did It ####
 #### Code & Wiring ####
+No code was used for this portion of our final project.
+
 #### Final Product ####
 
 
