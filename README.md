@@ -132,18 +132,9 @@ This diagram outlined our plans for stylizing the exterior and key aspects of th
 *Play Field*
 
 To start, we opted for a resin kit purchased from Amazon and dedicated time to researching the most effective techniques for resin pouring. This was uncharted territory for both of us, and we were eager to learn and apply our newfound knowledge.
-<img src=" " height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/Resin%20Set.png" height="300">
 
-We used a scale to ensure equal parts of both the resin and the hardener, and then mixed in grey mica powder. We ended up using 80 grams of both the resin and hardener for the playing field alone.
-<img src=" " height="300">
-
-We applied the initial layer of grey resin and let it cure for a minimum of 48 hours.
-<img src=" " height="300">
-
-After applying the first coat, we applied a thicker clear coat to cover any uneven spots. We discovered that by using small spurts of WD-40 over the surface, the oils caused the resin to create an amazing moon-like design. This unexpected result led us to change our theme from terminator to the moon, as we found it to be more unique.
-<img src=" " height="300">
-
-We then sanded down the area near the shooter lane to ensure that the ball would smoothly roll onto the field without any resistance. Additionally we used the dremil to smooth out certain areas where resin had leaked.
+We used a scale to ensure equal parts of both the resin and the hardener, and then mixed in grey mica powder. We ended up using 80 grams of both the resin and hardener for the playing field alone. We applied the initial layer of grey resin and let it cure for a minimum of 48 hours. After applying the first coat, we applied a thicker clear coat to cover any uneven spots. We discovered that by using small spurts of WD-40 over the surface, the oils caused the resin to create an amazing moon-like design. This unexpected result led us to change our theme from terminator to the moon, as we found it to be more unique. We then sanded down the area near the shooter lane to ensure that the ball would smoothly roll onto the field without any resistance. Additionally we used the dremil to smooth out certain areas where resin had leaked.
 <img src=" " height="300">
 
 *Base*
