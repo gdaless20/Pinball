@@ -190,9 +190,10 @@ No CAD components needed for this portion of the pinball machine.
 #### Drawings ####
 ELLEN
 #### How We Did It ####
-ELLEN
+
+I designed the code to connect our LCD with our Pop Bumper and solenoid. We have a switch under the bottom of the pinball base that closes a circuit when the Pop Bumper is hit. The closed circuit tells the solenoid to shoot down and this tells the LCD to update the score by adding 350 to the previous value. I soldered the wires to make the arduino freestanding and we have it attached to the machine out of sight so you only see the LCD with the score posted by the top of the machine. We also added some clay that was molded to have a moonlike appearance onto the edges of the lcd to hide the metal and add to our theme. 
+
 #### Code & Wiring ####
-ELLEN
 
 *Code* 
 ``` python
@@ -251,8 +252,14 @@ while True: #if the button is pressed this will happen
 LCD code was not the highlight of this project for me. This felt really complicated but to be honest starting out what took me the most time to get the LCD code going was simply finding the right libraries to download. I had never used an LCD code before and had no idea where to start out but I used several different websites online (linked in code) to get a feel for how the code needed to be organized and what each aspect did. I used an LCD backpack so the wiring was almost non-existent which was really nice for time, energy, and organization. Using the links I setup the libraries to the LCD and addressed everything so each part would be recognized and run smoothly between the code and LCD itself. Then I added in my code from the button because I need the points scored to show up on the display. To incorporate the points being added to the score on display, I made score a variable and set it to 0 when you start, I was able to then use an equation to make it so that each time the button was pressed, 350 points would be added to the score and stay there until added to again. 
 
 *Wiring*
+
+*pic here
+Above is our wiring diagram for the LCD. Figuring out how to wire the Arduino to the LCD was not very difficult and we’ve used buttons several times before so that was not too hard to add in either. What WAS difficult, was soldering everything once installed. The switch was especially challenging, as it was hot glued to a piece of wood on the underbelly of the machine, and a difficult angle to get to with the soldering iron and solder while also holding the wires. 
+
+
+
 #### Final Product ####
-ELLEN
+
 
 ### Spinning Plate
 #### Materials ####
@@ -390,54 +397,6 @@ No code was used for this portion of our final project.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### DO WE STILL NEED THIS?
-
-``` python
-import time #imports
-import board
-import digitalio
-
-led1 = digitalio.DigitalInOut(board.GP15) #pins 
-led1.direction = digitalio.Direction.OUTPUT
-led2 = digitalio.DigitalInOut(board.GP17)
-led2.direction = digitalio.Direction.OUTPUT
-button = digitalio.DigitalInOut(board.GP16) #adds in the button
-button.direction = digitalio.Direction.INPUT
-button.pull = digitalio.Pull.UP #incorperates the button into the circuit
-
-score = 0   #base value starts score at 0
-oldbutton_state = 0
-
-
-while True: #if the button is pressed this will happen
-     if button.value == False: #if pressed
-          if oldbutton_state == 0:
-               score = score + 350 #each time the button is pushed the score increases by 350
-               print(score)
-               oldbutton_state = 1 #button was pressed
-     else:
-          oldbutton_state = 0   #only changes when the button is pressed
-```
-
-Every time the pinball rolls over the button, the score will increase by 350 points. I'm working on coding an LCD so that this score will be visible and updated on an LCD screen so people can see their points increase while playing. Buttons in general are pretty simple for code, this button is specifically functioning as the point route notches. Each time the pinball runs over them, pressing them down, the lcd screen will update your score by adding 350 points. 
-
-
-There is now a little less than a month before we present our final project to UVA and our class. Gaby is working on wiring currently and we have been adding layers of spray paint to the outside of the pinball machine. I have been working on the drop shooters and need to use a solenoid as both of those are essential to our project being considered "complete." Not looking forward to presenting in front of everyone but we are working to finish and have an interesting project even if it is more simple than we may have hoped for. 
 
 
 
