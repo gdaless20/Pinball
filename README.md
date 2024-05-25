@@ -254,7 +254,7 @@ LCD code was not the highlight of this project for me. This felt really complica
 *Wiring*
 
 *pic here
-Above is our wiring diagram for the LCD. Figuring out how to wire the Arduino to the LCD was not very difficult and we’ve used buttons several times before so that was not too hard to add in either. What WAS difficult, was soldering everything once installed. The switch was especially challenging, as it was hot glued to a piece of wood on the underbelly of the machine, and a difficult angle to get to with the soldering iron and solder while also holding the wires. 
+Above is our wiring diagram for the LCD. Figuring out how to wire the Arduino to the LCD was not very difficult and we’ve used buttons several times before so that was not too hard to add in either. What WAS difficult, was soldering everything once installed. The switch was especially challenging, as it was hot glued to a piece of wood on the underbelly of the machine, and a difficult angle to get to with the soldering iron and solder while also holding the wires. (pictured above)
 
 
 
@@ -329,20 +329,20 @@ We then used the soldering station to connect the motor to a 4xAA battery pack a
 #### Cad Design ####
 We orignally used CAD to create a model of where to drill holes into the pinball machine which is shown below. In the end we went with a pre-bougght setup as we were struggling to create out own setup.
 <img src=" " height="200">
-
+ELLEN
 #### Drawings ####
 Put design for the spinning plate
 Put the demensions aswell
-
+ELLEN
 #### How We Did It ####
 All the stuff abt assembly 
-
+ELLEN
 #### Code & Wiring ####
 Wiring Diagram 
-
+ELLEN
 #### Final Product ####
 Images & Pics of it done
-
+ELLEN
 ### Flippers 
 #### Materials ####
 * Resin
