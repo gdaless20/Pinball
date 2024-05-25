@@ -135,15 +135,11 @@ To start, we opted for a resin kit purchased from Amazon and dedicated time to r
 <img src="https://github.com/elynch78/Pinball/blob/main/images/Resin%20Set.png" height="300">
 
 We used a scale to ensure equal parts of both the resin and the hardener, and then mixed in grey mica powder. We ended up using 80 grams of both the resin and hardener for the playing field alone. We applied the initial layer of grey resin and let it cure for a minimum of 48 hours. After applying the first coat, we applied a thicker clear coat to cover any uneven spots. We discovered that by using small spurts of WD-40 over the surface, the oils caused the resin to create an amazing moon-like design. This unexpected result led us to change our theme from terminator to the moon, as we found it to be more unique. We then sanded down the area near the shooter lane to ensure that the ball would smoothly roll onto the field without any resistance. Additionally we used the dremil to smooth out certain areas where resin had leaked.
-<img src=" " height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/Playfield.png" height="300">
 
 *Base*
 
-To start off, we applied a white primer paint to coat both the exterior and interior walls of the pinball machine. This step was taken before pouring the playfield to prevent any paint spillage. Following that, we covered the top of the pinball machine with tape and towels in preparation for the application of black spray paint.
-<img src=" " height="300">
-<img src=" " height="300">
-
-We had to apply two or three coats of paint before achieving the desired level of opacity for the color.
+To start off, we applied a white primer paint to coat both the exterior and interior walls of the pinball machine. This step was taken before pouring the playfield to prevent any paint spillage. Following that, we covered the top of the pinball machine with tape and towels in preparation for the application of black spray paint. We had to apply two or three coats of paint before achieving the desired level of opacity for the color.
 <img src=" " height="300">
 
 Simloutaniously throughtout this proccess we were prepping other parts of the pinball machine like the top board for the pinball machine. It was thanfully a perfect fit so all we had to do for preparation was spraypaint the wood black. 
@@ -244,7 +240,10 @@ LCD code was not the highlight of this project for me. This felt really complica
 
 *Wiring*
 
-*pic here
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5674.PNG" height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_2804.jpg" height="300">
+<img src="(Wiring Diagram Here)" height="300">
+
 Above is our wiring diagram for the LCD. Figuring out how to wire the Arduino to the LCD was not very difficult and we’ve used buttons several times before so that was not too hard to add in either. What WAS difficult, was soldering everything once installed. The switch was especially challenging, as it was hot glued to a piece of wood on the underbelly of the machine, and a difficult angle to get to with the soldering iron and solder while also holding the wires. (pictured above)
 
 
