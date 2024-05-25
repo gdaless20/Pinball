@@ -130,6 +130,7 @@ This diagram outlined our plans for stylizing the exterior and key aspects of th
 #### How We Did It ####
 
 *Play Field*
+
 To start, we opted for a resin kit purchased from Amazon and dedicated time to researching the most effective techniques for resin pouring. This was uncharted territory for both of us, and we were eager to learn and apply our newfound knowledge.
 <img src=" " height="200">
 
@@ -142,7 +143,7 @@ We applied the initial layer of grey resin and let it cure for a minimum of 48 h
 After applying the first coat, we applied a thicker clear coat to cover any uneven spots. We discovered that by using small spurts of WD-40 over the surface, the oils caused the resin to create an amazing moon-like design. This unexpected result led us to change our theme from terminator to the moon, as we found it to be more unique.
 <img src=" " height="200">
 
-We then sanded down the area near the shooter lane to ensure that the ball would smoothly roll onto the field without any resistance.
+We then sanded down the area near the shooter lane to ensure that the ball would smoothly roll onto the field without any resistance. Additionally we used the dremil to smooth out certain areas where resin had leaked.
 <img src=" " height="200">
 
 *Base*
@@ -267,9 +268,42 @@ ELLEN
 * Switch
 
 #### Cad Design ####
+<img src="https://github.com/elynch78/Pinball/blob/main/images/Spinning%20Plate.png" height="300">
+
+[Link Here](https://cvilleschools.onshape.com/documents/d824201cf901a7f11e74588b/w/5dfb2a3d007e04ecbc9fc8b3/e/71d3843a7a044e62b2f33668).
+
+For the spinning plate, we decided to use CAD to design the acrylic plate itself, as we thought it would be the easiest option. Although it took multiple prints to get the exact size we needed, this was our final CAD file.
 
 #### Drawings ####
+<img src="" height="200">
+
 #### How We Did It ####
+
+For the spinning plate we started off by deciding on placement within the playfield and decided that the center would ultimatly be the best option. We then marked out a 7inx7in hole in the center of the playfield. This ended up causing us issues as we did not think ahead as to how we would cut the hole in the ceter of the machine. There was no simple solution to this issue. In the end we drilled holes around the outside of our outline and used those to make an indent of where the plate would ultimatly sit.
+<img src="" height="200">
+
+This process took a lengthy period of time as it was just a mess. Our method of creating the hole ended up resulting in it to be slightly uneven which we were able to mainly correct towards the end. Folllowing the hole being complete we then alligned and drilled the hole for the motor in the center of the hole.
+<img src="" height="200">
+
+Once that was done we begun the instillation process which required clay and E600 to create a strong seal between the wood and the motor.
+<img src="" height="200">
+
+Once all of the intillation was done we moved on to laser cut the spinning plate. We remeasured the hole to ensure the measurments were correct and printed a few different designs to get the izing down to the exact milimeter.
+<img src="" height="200">
+
+Once that procces was done we went back to the laser cutter to cut a small chole in the center of the acrylic to sit the plate on.
+<img src="" height="200">
+
+After that we simply slid the plate onto the motor and used a tiny ammount of adhesive to secure the plate permenatly.
+<img src="" height="200">
+
+We then used the soldering station to connect the motor to a 4xAA battery pack and a switch to turn it on and off completing this portion of our project.
+<img src="" height="200">
+
+
+
+
+
 #### Code & Wiring ####
 #### Final Product ####
 
