@@ -34,8 +34,8 @@ This image highlights a fascinating mechanical aspect that caught our attention.
 This image highlights another intriguing mechanical aspect that caught our eye. We set a goal to include a solenoid in our final design for its simplicity and ease of installation.
 
 #### Drawn Diagrams 
-<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5652.jpg" height="200"> 
-<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5653.jpg" height="200">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5652.jpg" height="300"> 
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5653.jpg" height="300">
 
 We were faced with a decision between two base designs. The first option was a freestanding design, which would have provided a more cohesive and professional look. However, it required more materials and presented potential transportation issues. On the other hand, the tabletop design required less wood, resulting in cost savings. Ultimately, we opted for the tabletop design, especially since we already had a pinball base, making it the most practical choice.
 
@@ -124,7 +124,7 @@ Total= $99.93
 No CAD components needed for this portion of the pinball machine. The pinball base was provided complete and the playfield consisted of resin pouring. 
 
 #### Drawings ####
-<img src=" " height="200">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5669.JPG" height="300">
 This diagram outlined our plans for stylizing the exterior and key aspects of the machine.
 
 #### How We Did It ####
@@ -132,40 +132,40 @@ This diagram outlined our plans for stylizing the exterior and key aspects of th
 *Play Field*
 
 To start, we opted for a resin kit purchased from Amazon and dedicated time to researching the most effective techniques for resin pouring. This was uncharted territory for both of us, and we were eager to learn and apply our newfound knowledge.
-<img src=" " height="200">
+<img src=" " height="300">
 
 We used a scale to ensure equal parts of both the resin and the hardener, and then mixed in grey mica powder. We ended up using 80 grams of both the resin and hardener for the playing field alone.
-<img src=" " height="200">
+<img src=" " height="300">
 
 We applied the initial layer of grey resin and let it cure for a minimum of 48 hours.
-<img src=" " height="200">
+<img src=" " height="300">
 
 After applying the first coat, we applied a thicker clear coat to cover any uneven spots. We discovered that by using small spurts of WD-40 over the surface, the oils caused the resin to create an amazing moon-like design. This unexpected result led us to change our theme from terminator to the moon, as we found it to be more unique.
-<img src=" " height="200">
+<img src=" " height="300">
 
 We then sanded down the area near the shooter lane to ensure that the ball would smoothly roll onto the field without any resistance. Additionally we used the dremil to smooth out certain areas where resin had leaked.
-<img src=" " height="200">
+<img src=" " height="300">
 
 *Base*
 
 To start off, we applied a white primer paint to coat both the exterior and interior walls of the pinball machine. This step was taken before pouring the playfield to prevent any paint spillage. Following that, we covered the top of the pinball machine with tape and towels in preparation for the application of black spray paint.
-<img src=" " height="200">
-<img src=" " height="200">
+<img src=" " height="300">
+<img src=" " height="300">
 
 We had to apply two or three coats of paint before achieving the desired level of opacity for the color.
-<img src=" " height="200">
+<img src=" " height="300">
 
 Simloutaniously throughtout this proccess we were prepping other parts of the pinball machine like the top board for the pinball machine. It was thanfully a perfect fit so all we had to do for preparation was spraypaint the wood black. 
-<img src=" " height="200">
+<img src=" " height="300">
 
 Once everything had dried, we installed metal guards at the back to enable the pinball machine to smoothly curve around its top.
-<img src=" " height="200">
+<img src=" " height="300">
 
 Then we secured the wood plank to the pinball machine using screws and a drill. Before installation, we attached the LED lights to the underside of the plank.
-<img src=" " height="200">
+<img src=" " height="300">
 
 Finally, we attached the wooden legs that came with the pinball machine using screws and a drill.
-<img src=" " height="200">
+<img src=" " height="300">
 
 
 #### Code & Wiring ####
@@ -173,7 +173,7 @@ No code was used for this portion of our final project.
 
 #### Final Product ####
 Overall the base and the playfeild were mainly stylistic and didnt require too much work. That being said we were able to gain new skills like how to use resin as neither of us had ever used it prior. It took around 2 months to entierly finish both of these aspects.
-<img src=" " height="200">
+<img src=" " height="300">
 
 
 
@@ -282,36 +282,43 @@ Above is our wiring diagram for the LCD. Figuring out how to wire the Arduino to
 For the spinning plate, we decided to use CAD to design the acrylic plate itself, as we thought it would be the easiest option. Although it took multiple prints to get the exact size we needed, this was our final CAD file.
 
 #### Drawings ####
-<img src="" height="200">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5670.JPG" height="300">
+
+This drawing served as a visual representation of our desired size for the spinning plate.
 
 #### How We Did It ####
 
 For the spinning plate we started off by deciding on placement within the playfield and decided that the center would ultimatly be the best option. We then marked out a 7inx7in hole in the center of the playfield. This ended up causing us issues as we did not think ahead as to how we would cut the hole in the ceter of the machine. There was no simple solution to this issue. In the end we drilled holes around the outside of our outline and used those to make an indent of where the plate would ultimatly sit.
-<img src="" height="200">
+<img src="" height="300">
 
 This process took a lengthy period of time as it was just a mess. Our method of creating the hole ended up resulting in it to be slightly uneven which we were able to mainly correct towards the end. Folllowing the hole being complete we then alligned and drilled the hole for the motor in the center of the hole.
-<img src="" height="200">
+<img src="" height="300">
 
 Once that was done we begun the instillation process which required clay and E600 to create a strong seal between the wood and the motor.
-<img src="" height="200">
+<img src="" height="300">
 
 Once all of the intillation was done we moved on to laser cut the spinning plate. We remeasured the hole to ensure the measurments were correct and printed a few different designs to get the izing down to the exact milimeter.
-<img src="" height="200">
+<img src="" height="300">
 
 Once that procces was done we went back to the laser cutter to cut a small chole in the center of the acrylic to sit the plate on.
-<img src="" height="200">
+<img src="" height="300">
 
 After that we simply slid the plate onto the motor and used a tiny ammount of adhesive to secure the plate permenatly.
-<img src="" height="200">
+<img src="" height="300">
 
 We then used the soldering station to connect the motor to a 4xAA battery pack and a switch to turn it on and off completing this portion of our project.
-<img src="" height="200">
-
-
-
+<img src="" height="300">
 
 
 #### Code & Wiring ####
+*Code*
+There was no code for this portion of our project.
+
+*Wiring*
+Below is the final wiring diagram for the circuit used for the spinning plate.
+
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5671.JPG" height="300">
+
 #### Final Product ####
 
 ### Pop Bumper 
@@ -328,7 +335,7 @@ We then used the soldering station to connect the motor to a 4xAA battery pack a
   
 #### Cad Design ####
 We orignally used CAD to create a model of where to drill holes into the pinball machine which is shown below. In the end we went with a pre-bougght setup as we were struggling to create out own setup.
-<img src=" " height="200">
+<img src=" " height="300">
 ELLEN
 #### Drawings ####
 Put design for the spinning plate
@@ -343,6 +350,7 @@ ELLEN
 #### Final Product ####
 Images & Pics of it done
 ELLEN
+
 ### Flippers 
 #### Materials ####
 * Resin
