@@ -95,8 +95,7 @@ May: Rushing to do most of the physical project, troubleshooting wiring issues, 
 * Motor -> $12.99
 * Resin Kit -> $12.99
 * Pop Bumper Kit -> $60.00
-* Spraypaint -> $8.39
-* LEDS -> $5.55
+* Micro Switches -> $13.94
 
 Total= $99.93
 *We were fortunate that all other materials either came from the lab or were readily available around both of our homes.*
@@ -188,8 +187,11 @@ Overall the base and the playfeild were mainly stylistic and didnt require too m
 #### Cad Design ####
 No CAD components needed for this portion of the pinball machine.
 #### Drawings ####
+ELLEN
 #### How We Did It ####
+ELLEN
 #### Code & Wiring ####
+ELLEN
 
 *Code* 
 ``` python
@@ -248,9 +250,8 @@ while True: #if the button is pressed this will happen
 LCD code was not the highlight of this project for me. This felt really complicated but to be honest starting out what took me the most time to get the LCD code going was simply finding the right libraries to download. I had never used an LCD code before and had no idea where to start out but I used several different websites online (linked in code) to get a feel for how the code needed to be organized and what each aspect did. I used an LCD backpack so the wiring was almost non-existent which was really nice for time, energy, and organization. Using the links I setup the libraries to the LCD and addressed everything so each part would be recognized and run smoothly between the code and LCD itself. Then I added in my code from the button because I need the points scored to show up on the display. To incorporate the points being added to the score on display, I made score a variable and set it to 0 when you start, I was able to then use an equation to make it so that each time the button was pressed, 350 points would be added to the score and stay there until added to again. 
 
 *Wiring*
-
-
 #### Final Product ####
+ELLEN
 
 ### Spinning Plate
 #### Materials ####
@@ -264,7 +265,9 @@ LCD code was not the highlight of this project for me. This felt really complica
 * Battery Pack
 * Soldering Iron
 * Switch
+
 #### Cad Design ####
+
 #### Drawings ####
 #### How We Did It ####
 #### Code & Wiring ####
@@ -287,9 +290,17 @@ We orignally used CAD to create a model of where to drill holes into the pinball
 <img src=" " height="200">
 
 #### Drawings ####
+Put design for the spinning plate
+Put the demensions aswell
+
 #### How We Did It ####
+All the stuff abt assembly 
+
 #### Code & Wiring ####
+Wiring Diagram 
+
 #### Final Product ####
+Images & Pics of it done
 
 ### Flippers 
 #### Materials ####
@@ -302,8 +313,11 @@ We orignally used CAD to create a model of where to drill holes into the pinball
 * Dremel
 * Hot Glue
 #### Cad Design ####
+Cad 
 #### Drawings ####
+Demensions & Theory Drawings
 #### How We Did It ####
+
 #### Code & Wiring ####
 No code was used for this portion of our final project.
 #### Final Product ####
@@ -312,9 +326,17 @@ No code was used for this portion of our final project.
 #### Materials ####
 * Sandpaper
 * Bike Chain Grease
+* Metal Pipe
+* Spring
+* Drill
+* Metal Brackets
+* Handle
+
 #### Cad Design ####
 No CAD components needed for this portion of the pinball machine.
 #### Drawings ####
+Theory & Dimensions
+
 #### How We Did It ####
 #### Code & Wiring ####
 No code was used for this portion of our final project.
