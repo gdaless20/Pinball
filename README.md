@@ -125,6 +125,7 @@ No CAD components needed for this portion of the pinball machine. The pinball ba
 
 #### Drawings ####
 <img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5669.JPG" height="300">
+
 This diagram outlined our plans for stylizing the exterior and key aspects of the machine.
 
 #### How We Did It ####
@@ -144,17 +145,24 @@ To start off, we applied a white primer paint to coat both the exterior and inte
 <img src="https://github.com/elynch78/Pinball/blob/main/images/Painting%20Gif.gif" height="300">
 
 Simloutaniously throughtout this proccess we were prepping other parts of the pinball machine like the top board for the pinball machine. It was thanfully a perfect fit so all we had to do for preparation was spraypaint the wood black. Once everything had dried, we installed metal guards at the back to enable the pinball machine to smoothly curve around its top.
+
 <img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5020.jpg" height="300">
 
 Then we secured the wood plank to the pinball machine using screws and a drill. Before installation, we attached the LED lights to the underside of the plank. Finally, we attached the wooden legs that came with the pinball machine using screws and a drill.
+
 <img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_2776.jpeg" height="300">
 
 
 #### Code & Wiring ####
-No code was used for this portion of our final project.
+*Code*
+No code was used for this portion of the project.
+
+*Wiring*
+No wiring was used for this portion of the project.
 
 #### Final Product ####
 Overall the base and the playfeild were mainly stylistic and didnt require too much work. That being said we were able to gain new skills like how to use resin as neither of us had ever used it prior. It took around 2 months to entierly finish both of these aspects.
+
 <img src=" " height="300">
 <img src=" " height="300">
 
@@ -276,22 +284,27 @@ This drawing served as a visual representation of our desired size for the spinn
 
 #### How We Did It ####
 
-For the spinning plate we started off by deciding on placement within the playfield and decided that the center would ultimatly be the best option. We then marked out a 7inx7in hole in the center of the playfield. This ended up causing us issues as we did not think ahead as to how we would cut the hole in the ceter of the machine. There was no simple solution to this issue. In the end we drilled holes around the outside of our outline and used those to make an indent of where the plate would ultimatly sit.
+When we began working on the spinning plate, we initially decided to place it in the center of the playfield. We marked out a 7-inch by 7-inch hole in the center of the playfield. However, we encountered issues because we hadn't thought ahead about how to cut the hole in the center of the machine. This lack of planning presented a challenge, and we had to come up with a solution on the spot. In the end, we drilled holes around the outside of our outline and used those to create an indentation where the plate would ultimately sit.
+
 <img src="https://github.com/elynch78/Pinball/blob/main/images/Holeonoutside.gif" height="300">
 
-This process took a lengthy period of time as it was just a mess. Our method of creating the hole ended up resulting in it to be slightly uneven which we were able to mainly correct towards the end. Folllowing the hole being complete we then alligned and drilled the hole for the motor in the center of the hole.
+This process took a long time and was quite messy. Our method of creating the hole resulted in it being slightly uneven, but we were able to correct it mostly towards the end. After completing the hole, we then aligned and drilled the hole for the motor in the center of the hole.
+
 <img src="https://github.com/elynch78/Pinball/blob/main/images/Holeoninside.gif" height="300">
 
-Once that was done we begun the instillation process which required clay and E600 to create a strong seal between the wood and the motor.
-<img src="" height="300">
+Once that was done, we began the installation process, which required clay and E600 to create a strong seal between the wood and the motor.
 
-Once all of the intillation was done we moved on to laser cut the spinning plate. We remeasured the hole to ensure the measurments were correct and printed a few different designs to get the izing down to the exact milimeter.
-<img src="" height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5685.JPG" height="300">
 
-Once that procces was done we went back to the laser cutter to cut a small chole in the center of the acrylic to sit the plate on. After that we simply slid the plate onto the motor and used a tiny ammount of adhesive to secure the plate permenatly.
-<img src="" height="300">
+Once all of the installation was completed, we moved on to laser-cutting the spinning plate. We remeasured the hole to ensure the measurements were correct and printed a few different designs to get the sizing down to the exact millimeter.
 
-We then used the soldering station to connect the motor to a 4xAA battery pack and a switch to turn it on and off completing this portion of our project.
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5684.JPG" height="300">
+
+Once that process was completed, we went back to the laser cutter to cut a small hole in the center of the acrylic to sit the plate on. After that, we simply slid the plate onto the motor and used a small amount of adhesive to secure the plate permanently.
+
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5045.jpg" height="300">
+
+We then used the soldering station to connect the motor to a 4xAA battery pack and a switch to turn it on and off, completing this portion of our project.
 
 
 
@@ -305,6 +318,9 @@ Below is the final wiring diagram for the circuit used for the spinning plate.
 <img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5671.JPG" height="300">
 
 #### Final Product ####
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5686.JPG" height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/SpinningPlateWorking.gif" height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/SpinningPlateWorking2.gif" height="300">
 
 ### Pop Bumper 
 #### Materials ####
@@ -319,22 +335,90 @@ Below is the final wiring diagram for the circuit used for the spinning plate.
 * Screws
   
 #### Cad Design ####
-We orignally used CAD to create a model of where to drill holes into the pinball machine which is shown below. In the end we went with a pre-bougght setup as we were struggling to create out own setup.
-<img src=" " height="300">
-ELLEN
+We originally used CAD to create a model of where to drill holes into the pinball machine, as shown below. In the end, we decided to go with a pre-bought setup as we were struggling to create our own.
+
+<img src="https://github.com/elynch78/Pinball/blob/main/images/PBTemplate.png" height="300">
+[Source](https://cvilleschools.onshape.com/documents/f0ea1c45c067b8242bca60b7/w/810e3731fd3b46815ee7557d/e/efdca7dcd832b3a5a78ccaaf)
+
 #### Drawings ####
-Put design for the spinning plate
-Put the demensions aswell
-ELLEN
+
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5688.JPG" height="300">
+
+Above is a diagram illustrating how the system works. When the pinball triggers the small white plate, it causes the rod to activate the switch, which in turn makes the solenoid contract. As the solenoid contracts, the metal ring is pulled down, shooting the ball out in a random direction.
+
 #### How We Did It ####
-All the stuff abt assembly 
-ELLEN
+
+
+
 #### Code & Wiring ####
-Wiring Diagram 
-ELLEN
+
+*Code* 
+``` python
+import time  
+import board 
+import busio  
+import digitalio
+import displayio
+ 
+from lcd.lcd import LCD, CursorMode
+from lcd.i2c_pcf8574_interface import I2CPCF8574Interface
+
+button = digitalio.DigitalInOut(board.GP16) #adds in the button
+button.direction = digitalio.Direction.INPUT
+button.pull = digitalio.Pull.UP #incorperates the button into the circuit
+
+
+# Pin definitions
+
+# I2C used for LCD Display
+i2c_scl = board.GP11
+i2c_sda = board.GP10
+i2c_address = 0x27 # 39 decimal
+
+# LCD display info
+cols = 16
+rows = 2
+
+score = 0   #base value starts score at 0
+oldbutton_state = 0
+
+# Setup LCD display
+
+i2c = busio.I2C(scl=i2c_scl, sda=i2c_sda)
+interface = I2CPCF8574Interface(i2c, i2c_address)  #sets up lcd screen
+lcd = LCD(interface, num_rows=rows, num_cols=cols)
+lcd.set_cursor_mode(CursorMode.HIDE)
+
+while True: #if the button is pressed this will happen
+     if button.value == False: #if pressed
+          if oldbutton_state == 0:
+               score = score + 350 #each time the button is pushed the score increases by 350
+               lcd.set_cursor_pos(0, 0)
+               lcd.print(str(score)) #lcd shows new score
+               oldbutton_state = 1 #button was pressed
+     else:
+          oldbutton_state = 0   #only changes when the button is pressedlcd.print ("word")
+
+#sources
+##https://www.penguintutor.com/electronics/pico-lcd
+##https://learn.adafruit.com/character-lcds/python-circuitpython 
+##https://learn.adafruit.com/i2c-spi-lcd-backpack/python-circuitpython 
+##https://github.com/T-622/RPI-PICO-I2C-LCD 
+```
+
+The code used for the pop bumper is the same as the code used for the LCD, as both the pop bumper and the LCD are within the same circuit. When the pop bumper is hit, it triggers the switch, completing the circuit and allowing points to be awarded on the LCD.
+
+*Wiring*
+
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5682.JPG" height="300">
+
+The wiring used for the LCD is the same as the wiring used for the solenoid, as they are all part of the same circuit. When the switch is pressed by the pop bumper, it activates the solenoid, which pulls the metal bracket down and shoots the ball out.
+
 #### Final Product ####
-Images & Pics of it done
-ELLEN
+<img src=" " height="300">
+<img src=" " height="300">
+<img src=" " height="300">
+
 
 ### Flippers 
 #### Materials ####
@@ -347,14 +431,56 @@ ELLEN
 * Dremel
 * Hot Glue
 #### Cad Design ####
-Cad 
+
+<img src="https://github.com/elynch78/Pinball/blob/main/images/Pinball%20Piece.png" height="300">
+
+[Link Here](https://cvilleschools.onshape.com/documents/f55baecd47c3d5d69468f469/w/300b5bc84cd615cc70ae77ec/e/bfc8cf0f38a4b6ecfc4cf0f6)
+We started by creating a CAD design to ensure that the hole of the pinball flippers was the correct size.
+
 #### Drawings ####
+
 Demensions & Theory Drawings
 #### How We Did It ####
 
+The only tasks needed to do the fillpers were to make ou own custom flippers and also make it so that wehn pressed in and released the flippers would return to mormal. The pinball machine came with flippers and a non automatic mechanism already installed saving us ample ammounts of time.
+<img src=" " height="300">
+
+We started by taking a mold using hot glue of the original flippers used. This was a good test of how molding might work for future yse.
+<img src=" " height="300">
+
+
+We then used a molding kit that we had laying around one of our hoses to take a better impression of the flipper. We eneded up doing two of these as the first ne came out slightly messed up. The first model is the first image and the second model is the second. 
+<img src=" " height="300">
+
+
+We used resin to fill the mold and repeated the process twice to get two identical flippers. Once that was done we used the belt sander to smooth them out then we siply used super glue to install each flipper in the propper orientation on the machine.
+<img src=" " height="300">
+
+
+The next issue we had to tackle was to make the flippers return to their original position. This was an easy fix by place a rubber band inbewtween the two showing screws of the mechanism undeneath the machine as shown below. 
+<img src=" " height="300">
+
+
+This allowed for the flippers to return to their naturul position after each used of the handles. Afer this step we were finished with this portion of the project.
+
+
+
 #### Code & Wiring ####
-No code was used for this portion of our final project.
+
+*Code*
+
+There was no code for this portion of the project.
+
+*Wiring*
+
+There was no wiring for this portion of the project.
+
 #### Final Product ####
+<img src=" " height="300">
+<img src=" " height="300">
+<img src=" " height="300">
+
+
 
 ### Shooter Lane & Plunger 
 #### Materials ####
@@ -368,12 +494,20 @@ No code was used for this portion of our final project.
 
 #### Cad Design ####
 No CAD components needed for this portion of the pinball machine.
+
 #### Drawings ####
 Theory & Dimensions
 
 #### How We Did It ####
+
+
 #### Code & Wiring ####
-No code was used for this portion of our final project.
+
+*Code*
+No code was used for this project.
+
+*Wiring*
+No wiring was used for this project.
 
 #### Final Product ####
 
