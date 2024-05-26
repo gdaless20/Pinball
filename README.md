@@ -140,19 +140,14 @@ We used a scale to ensure equal parts of both the resin and the hardener, and th
 *Base*
 
 To start off, we applied a white primer paint to coat both the exterior and interior walls of the pinball machine. This step was taken before pouring the playfield to prevent any paint spillage. Following that, we covered the top of the pinball machine with tape and towels in preparation for the application of black spray paint. We had to apply two or three coats of paint before achieving the desired level of opacity for the color.
-<img src=" " height="300">
 
-Simloutaniously throughtout this proccess we were prepping other parts of the pinball machine like the top board for the pinball machine. It was thanfully a perfect fit so all we had to do for preparation was spraypaint the wood black. 
-<img src=" " height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/Painting%20Gif.gif" height="300">
 
-Once everything had dried, we installed metal guards at the back to enable the pinball machine to smoothly curve around its top.
-<img src=" " height="300">
+Simloutaniously throughtout this proccess we were prepping other parts of the pinball machine like the top board for the pinball machine. It was thanfully a perfect fit so all we had to do for preparation was spraypaint the wood black. Once everything had dried, we installed metal guards at the back to enable the pinball machine to smoothly curve around its top.
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5020.jpg" height="300">
 
-Then we secured the wood plank to the pinball machine using screws and a drill. Before installation, we attached the LED lights to the underside of the plank.
-<img src=" " height="300">
-
-Finally, we attached the wooden legs that came with the pinball machine using screws and a drill.
-<img src=" " height="300">
+Then we secured the wood plank to the pinball machine using screws and a drill. Before installation, we attached the LED lights to the underside of the plank. Finally, we attached the wooden legs that came with the pinball machine using screws and a drill.
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_2776.jpeg" height="300">
 
 
 #### Code & Wiring ####
@@ -161,6 +156,8 @@ No code was used for this portion of our final project.
 #### Final Product ####
 Overall the base and the playfeild were mainly stylistic and didnt require too much work. That being said we were able to gain new skills like how to use resin as neither of us had ever used it prior. It took around 2 months to entierly finish both of these aspects.
 <img src=" " height="300">
+<img src=" " height="300">
+
 
 
 
@@ -174,8 +171,7 @@ Overall the base and the playfeild were mainly stylistic and didnt require too m
 * USB Cord
 #### Cad Design ####
 No CAD components needed for this portion of the pinball machine.
-#### Drawings ####
-ELLEN
+
 #### How We Did It ####
 
 I designed the code to connect our LCD with our Pop Bumper and solenoid. We have a switch under the bottom of the pinball base that closes a circuit when the Pop Bumper is hit. The closed circuit tells the solenoid to shoot down and this tells the LCD to update the score by adding 350 to the previous value. I soldered the wires to make the arduino freestanding and we have it attached to the machine out of sight so you only see the LCD with the score posted by the top of the machine. We also added some clay that was molded to have a moonlike appearance onto the edges of the lcd to hide the metal and add to our theme. 
@@ -242,13 +238,15 @@ LCD code was not the highlight of this project for me. This felt really complica
 
 <img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5674.PNG" height="300">
 <img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_2804.jpg" height="300">
-<img src="(Wiring Diagram Here)" height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5682.JPG" height="300">
 
 Above is our wiring diagram for the LCD. Figuring out how to wire the Arduino to the LCD was not very difficult and we’ve used buttons several times before so that was not too hard to add in either. What WAS difficult, was soldering everything once installed. The switch was especially challenging, as it was hot glued to a piece of wood on the underbelly of the machine, and a difficult angle to get to with the soldering iron and solder while also holding the wires. (pictured above)
 
-
-
 #### Final Product ####
+<img src=" " height="300">
+<img src=" " height="300">
+<img src=" " height="300">
+
 
 
 ### Spinning Plate
@@ -279,10 +277,10 @@ This drawing served as a visual representation of our desired size for the spinn
 #### How We Did It ####
 
 For the spinning plate we started off by deciding on placement within the playfield and decided that the center would ultimatly be the best option. We then marked out a 7inx7in hole in the center of the playfield. This ended up causing us issues as we did not think ahead as to how we would cut the hole in the ceter of the machine. There was no simple solution to this issue. In the end we drilled holes around the outside of our outline and used those to make an indent of where the plate would ultimatly sit.
-<img src="" height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/Holeonoutside.gif" height="300">
 
 This process took a lengthy period of time as it was just a mess. Our method of creating the hole ended up resulting in it to be slightly uneven which we were able to mainly correct towards the end. Folllowing the hole being complete we then alligned and drilled the hole for the motor in the center of the hole.
-<img src="" height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/Holeoninside.gif" height="300">
 
 Once that was done we begun the instillation process which required clay and E600 to create a strong seal between the wood and the motor.
 <img src="" height="300">
@@ -290,14 +288,11 @@ Once that was done we begun the instillation process which required clay and E60
 Once all of the intillation was done we moved on to laser cut the spinning plate. We remeasured the hole to ensure the measurments were correct and printed a few different designs to get the izing down to the exact milimeter.
 <img src="" height="300">
 
-Once that procces was done we went back to the laser cutter to cut a small chole in the center of the acrylic to sit the plate on.
-<img src="" height="300">
-
-After that we simply slid the plate onto the motor and used a tiny ammount of adhesive to secure the plate permenatly.
+Once that procces was done we went back to the laser cutter to cut a small chole in the center of the acrylic to sit the plate on. After that we simply slid the plate onto the motor and used a tiny ammount of adhesive to secure the plate permenatly.
 <img src="" height="300">
 
 We then used the soldering station to connect the motor to a 4xAA battery pack and a switch to turn it on and off completing this portion of our project.
-<img src="" height="300">
+
 
 
 #### Code & Wiring ####
