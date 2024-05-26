@@ -155,9 +155,11 @@ Then we secured the wood plank to the pinball machine using screws and a drill. 
 
 #### Code & Wiring ####
 *Code*
+
 No code was used for this portion of the project.
 
 *Wiring*
+
 No wiring was used for this portion of the project.
 
 #### Final Product ####
@@ -348,6 +350,41 @@ Above is a diagram illustrating how the system works. When the pinball triggers 
 
 #### How We Did It ####
 
+We started off by ordering a specialty part from a [site](https://www.marcospecialties.com/control/main) that makes all kinds of pinball parts for various machines and uses.
+
+<img src="https://github.com/elynch78/Pinball/blob/main/images/Popbumperfromsite.png" height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/Popbumpernotinstalled.gif" height="300">
+
+Once the piece arrived, we started to install and assemble it onto the pinball machine. We began by drilling holes into the machine to make space for the metal bracket, center trigger, inner LED wires, and to screw in the bracket on the bottom of the machine.
+
+<img src="https://github.com/elynch78/Pinball/blob/main/images/Topofbumper.png" height="300">
+
+After we had drilled into the machine and begun installation, we realized that the wood was far too thick to properly connect both the top and bottom pieces of the bumper. We unscrewed the pieces we had already connected and started to brainstorm possible solutions. We arrived at the idea to use a specific drill bit to thin the wood evenly in the desired area.
+
+<img src="https://github.com/elynch78/Pinball/blob/main/images/drillbit.png" height="300">
+
+Once we drilled the wood down, we once again tried to install the piece, and this time it fit perfectly!
+
+<img src="https://github.com/elynch78/Pinball/blob/main/images/Drilledinwoodpopbumper.png" height="300">
+
+Once the pop bumper was installed, we then started to design and install the switch. We used the microswitches we purchased and attached a longer piece of metal to the switch's end.
+
+<img src="" height="300">
+
+Then we attached a piece of wood to the bottom of the machine close to where the pop bumper sits.
+
+<img src="" height="300">
+
+Following that step, we attached the switch using hot glue and tested to make sure that the center rod made contact with the switch when pressure was applied to the plate above. Once we had ensured that the circuit was successfully complete, we attached the switch and solenoid to the LCD circuit so it would award appropriate points.
+
+<img src="" height="300">
+
+Lastly, we decided to remove the LED within the bumper and replace it with a custom cap to go with the moon/lunar theme of our pinball. We did this by simply measuring out the outside of the lid and cutting an exact piece from clay so it would fit into the slot. Once that piece had dried, we used superglue to make sure it stayed in place, and then we were finished with this portion of the project!
+
+<img src="" height="300">
+
+
+
 
 
 #### Code & Wiring ####
@@ -442,26 +479,28 @@ We started by creating a CAD design to ensure that the hole of the pinball flipp
 Demensions & Theory Drawings
 #### How We Did It ####
 
-The only tasks needed to do the fillpers were to make ou own custom flippers and also make it so that wehn pressed in and released the flippers would return to mormal. The pinball machine came with flippers and a non automatic mechanism already installed saving us ample ammounts of time.
+The only task needed to do the flippers was to make our own custom flippers and ensure that when pressed and released, the flippers would return to normal. The pinball machine came with flippers and a non-automatic mechanism already installed, saving us ample amounts of time.
+
 <img src=" " height="300">
 
-We started by taking a mold using hot glue of the original flippers used. This was a good test of how molding might work for future yse.
+We started by taking a mold using hot glue of the original flippers used. This was a good test of how molding might work for future use.
+
+<img src=" " height="300">
+
+We then used a molding kit that we had lying around in one of our houses to take a better impression of the flipper. We ended up making two of these as the first one came out slightly messed up. The first model is shown in the first image, and the second model is shown in the second image.
+
+<img src=" " height="300">
+
+We used resin to fill the mold and repeated the process twice to get two identical flippers. Once that was done, we used the belt sander to smooth them out. Then, we simply used super glue to install each flipper in the proper orientation on the machine.
+
+<img src=" " height="300">
+
+The next issue we had to tackle was to make the flippers return to their original position. This was an easy fix by placing a rubber band between the two screws of the mechanism underneath the machine, as shown below.
+
 <img src=" " height="300">
 
 
-We then used a molding kit that we had laying around one of our hoses to take a better impression of the flipper. We eneded up doing two of these as the first ne came out slightly messed up. The first model is the first image and the second model is the second. 
-<img src=" " height="300">
-
-
-We used resin to fill the mold and repeated the process twice to get two identical flippers. Once that was done we used the belt sander to smooth them out then we siply used super glue to install each flipper in the propper orientation on the machine.
-<img src=" " height="300">
-
-
-The next issue we had to tackle was to make the flippers return to their original position. This was an easy fix by place a rubber band inbewtween the two showing screws of the mechanism undeneath the machine as shown below. 
-<img src=" " height="300">
-
-
-This allowed for the flippers to return to their naturul position after each used of the handles. Afer this step we were finished with this portion of the project.
+This allowed the flippers to return to their natural position after each use of the handles. After this step, we were finished with this portion of the project.
 
 
 
@@ -485,20 +524,24 @@ There was no wiring for this portion of the project.
 ### Shooter Lane & Plunger 
 #### Materials ####
 * Sandpaper
-* Bike Chain Grease
-* Metal Pipe
-* Spring
-* Drill
-* Metal Brackets
-* Handle
+* PTFE Lubricant
 
 #### Cad Design ####
 No CAD components needed for this portion of the pinball machine.
 
 #### Drawings ####
-Theory & Dimensions
+ 
+<img src="" height="300">
+
+Here is a diagram that clearly illustrates the shooter lane and plunger mechanism and how it works.
+
+
 
 #### How We Did It ####
+
+For this part of the project, we only needed to make some minor adjustments. The track and plunger were already in place, but we had to reduce the resistance on the tracks. To achieve this, we did some additional sanding on the lanes tracks. Additionally, we used PTFE Lubricant to further minimize resistance and friction.
+
+<img src="" height="300">
 
 
 #### Code & Wiring ####
@@ -511,17 +554,13 @@ No wiring was used for this project.
 
 #### Final Product ####
 
-
-
-
-
-
-
-
+<img src="" height="300">
+ 
 
 
 ## Instructions
-
+To operate the pinball macine there are a few steps you must follow!
+1st- Plug in the extension cord into the wall 
 
 ## Analysis 
 
