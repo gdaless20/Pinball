@@ -312,9 +312,11 @@ We then used the soldering station to connect the motor to a 4xAA battery pack a
 
 #### Code & Wiring ####
 *Code*
+
 There was no code for this portion of our project.
 
 *Wiring*
+
 Below is the final wiring diagram for the circuit used for the spinning plate.
 
 <img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5671.JPG" height="300">
@@ -367,24 +369,7 @@ Once we drilled the wood down, we once again tried to install the piece, and thi
 
 <img src="https://github.com/elynch78/Pinball/blob/main/images/Drilledinwoodpopbumper.png" height="300">
 
-Once the pop bumper was installed, we then started to design and install the switch. We used the microswitches we purchased and attached a longer piece of metal to the switch's end.
-
-<img src="" height="300">
-
-Then we attached a piece of wood to the bottom of the machine close to where the pop bumper sits.
-
-<img src="" height="300">
-
-Following that step, we attached the switch using hot glue and tested to make sure that the center rod made contact with the switch when pressure was applied to the plate above. Once we had ensured that the circuit was successfully complete, we attached the switch and solenoid to the LCD circuit so it would award appropriate points.
-
-<img src="" height="300">
-
-Lastly, we decided to remove the LED within the bumper and replace it with a custom cap to go with the moon/lunar theme of our pinball. We did this by simply measuring out the outside of the lid and cutting an exact piece from clay so it would fit into the slot. Once that piece had dried, we used superglue to make sure it stayed in place, and then we were finished with this portion of the project!
-
-<img src="" height="300">
-
-
-
+Once the pop bumper was installed, we then started to design and install the switch. We used the microswitches we purchased and attached a longer piece of metal to the switch's end. Then we attached a piece of wood to the bottom of the machine close to where the pop bumper sits. Following that step, we attached the switch using hot glue and tested to make sure that the center rod made contact with the switch when pressure was applied to the plate above. Once we had ensured that the circuit was successfully complete, we attached the switch and solenoid to the LCD circuit so it would award appropriate points. Lastly, we decided to remove the LED within the bumper and replace it with a custom cap to go with the moon/lunar theme of our pinball. We did this by simply measuring out the outside of the lid and cutting an exact piece from clay so it would fit into the slot. Once that piece had dried, we used superglue to make sure it stayed in place, and then we were finished with this portion of the project!
 
 
 #### Code & Wiring ####
@@ -476,28 +461,31 @@ We started by creating a CAD design to ensure that the hole of the pinball flipp
 
 #### Drawings ####
 
-Demensions & Theory Drawings
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5693.JPG" height="300">
+
+The diagram above illustrates the flipper mechanism.
+
 #### How We Did It ####
 
-The only task needed to do the flippers was to make our own custom flippers and ensure that when pressed and released, the flippers would return to normal. The pinball machine came with flippers and a non-automatic mechanism already installed, saving us ample amounts of time.
+The only task needed to do the flippers was to make our own custom flippers and ensure that when pressed and released, the flippers would return to normal. The pinball machine came with flippers and a non-automatic mechanism already installed, saving us ample amounts of time. We started by taking a mold using hot glue of the original flippers used. This was a good test of how molding might work for future use.
 
-<img src=" " height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5691.JPG" height="300">
 
-We started by taking a mold using hot glue of the original flippers used. This was a good test of how molding might work for future use.
+We then used a molding kit that we had lying around in one of our houses to take a better impression of the flipper.
 
-<img src=" " height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5694.JPG" height="300">
 
-We then used a molding kit that we had lying around in one of our houses to take a better impression of the flipper. We ended up making two of these as the first one came out slightly messed up. The first model is shown in the first image, and the second model is shown in the second image.
+We ended up making two of these as the first one came out slightly messed up. The first model is shown on the top, and the second model is shown on the bottom.
 
-<img src=" " height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5692.JPG" height="300">
 
 We used resin to fill the mold and repeated the process twice to get two identical flippers. Once that was done, we used the belt sander to smooth them out. Then, we simply used super glue to install each flipper in the proper orientation on the machine.
 
-<img src=" " height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5039.heic" height="300">
 
 The next issue we had to tackle was to make the flippers return to their original position. This was an easy fix by placing a rubber band between the two screws of the mechanism underneath the machine, as shown below.
 
-<img src=" " height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5695.JPG" height="300">
 
 
 This allowed the flippers to return to their natural position after each use of the handles. After this step, we were finished with this portion of the project.
@@ -515,8 +503,8 @@ There was no code for this portion of the project.
 There was no wiring for this portion of the project.
 
 #### Final Product ####
-<img src=" " height="300">
-<img src=" " height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/BottomFlipper%20-%20Made%20with%20Clipchamp.gif" height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/TopFlipper%20-%20Made%20with%20Clipchamp.gif" height="300">
 <img src=" " height="300">
 
 
