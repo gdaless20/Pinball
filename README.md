@@ -133,9 +133,11 @@ This diagram outlined our plans for stylizing the exterior and key aspects of th
 *Play Field*
 
 To start, we opted for a resin kit purchased from Amazon and dedicated time to researching the most effective techniques for resin pouring. This was uncharted territory for both of us, and we were eager to learn and apply our newfound knowledge.
+
 <img src="https://github.com/elynch78/Pinball/blob/main/images/Resin%20Set.png" height="300">
 
 We used a scale to ensure equal parts of both the resin and the hardener, and then mixed in grey mica powder. We ended up using 80 grams of both the resin and hardener for the playing field alone. We applied the initial layer of grey resin and let it cure for a minimum of 48 hours. After applying the first coat, we applied a thicker clear coat to cover any uneven spots. We discovered that by using small spurts of WD-40 over the surface, the oils caused the resin to create an amazing moon-like design. This unexpected result led us to change our theme from terminator to the moon, as we found it to be more unique. We then sanded down the area near the shooter lane to ensure that the ball would smoothly roll onto the field without any resistance. Additionally we used the dremil to smooth out certain areas where resin had leaked.
+
 <img src="https://github.com/elynch78/Pinball/blob/main/images/Playfield.png" height="300">
 
 *Base*
@@ -351,6 +353,7 @@ Below is the final wiring diagram for the circuit used for the spinning plate.
 We originally used CAD to create a model of where to drill holes into the pinball machine, as shown below. In the end, we decided to go with a pre-bought setup as we were struggling to create our own.
 
 <img src="https://github.com/elynch78/Pinball/blob/main/images/PBTemplate.png" height="300">
+
 [Source](https://cvilleschools.onshape.com/documents/f0ea1c45c067b8242bca60b7/w/810e3731fd3b46815ee7557d/e/efdca7dcd832b3a5a78ccaaf)
 
 #### Drawings ####
@@ -490,7 +493,7 @@ We ended up making two of these as the first one came out slightly messed up. Th
 
 We used resin to fill the mold and repeated the process twice to get two identical flippers. Once that was done, we used the belt sander to smooth them out. Then, we simply used super glue to install each flipper in the proper orientation on the machine.
 
-<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5039.heic" height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5039%20(1).jpg" height="300">
 
 The next issue we had to tackle was to make the flippers return to their original position. This was an easy fix by placing a rubber band between the two screws of the mechanism underneath the machine, as shown below.
 
@@ -514,7 +517,7 @@ There was no wiring for this portion of the project.
 #### Final Product ####
 <img src="https://github.com/elynch78/Pinball/blob/main/images/BottomFlipper%20-%20Made%20with%20Clipchamp.gif" height="300">
 <img src="https://github.com/elynch78/Pinball/blob/main/images/TopFlipper%20-%20Made%20with%20Clipchamp.gif" height="300">
-<img src=" " height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5039%20(1).jpg" height="300">
 
 
 
@@ -538,8 +541,6 @@ Here is a diagram that clearly illustrates the shooter lane and plunger mechanis
 
 For this part of the project, we only needed to make some minor adjustments. The track and plunger were already in place, but we had to reduce the resistance on the tracks. To achieve this, we did some additional sanding on the lanes tracks. Additionally, we used PTFE Lubricant to further minimize resistance and friction.
 
-<img src="" height="300">
-
 
 #### Code & Wiring ####
 
@@ -556,11 +557,24 @@ No wiring was used for this project.
 
 
 ## Instructions
-To operate the pinball macine there are a few steps you must follow!
-1st- Plug in the extension cord into the wall 
+
+To operate the pinball machine, follow these steps:
+
+1. Plug in the extension cord into the wall.
+2. Connect the power source to the solenoid.
+3. Flip the spinning plate switch located underneath the machine.
+
+Once these steps are completed, you are ready to play!
+
+To start playing:
+1. Pull the plunger back to your desired starting strength. The farther you pull it back, the faster it will go.
+2. Utilize the knobs on either side of the machine to activate the flippers. Pressing in will cause the flippers to activate.
+
+With these instructions, you'll be racking up scores in the thousands in no time! Keep practicing and improving your skills.
 
 ## Analysis 
 
+To watch our end of year recap please [click here](https://youtu.be/OqsA-FRxq2o)
 
 
 
