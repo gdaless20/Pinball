@@ -520,7 +520,6 @@ There was no wiring for this portion of the project.
 <img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5039%20(1).jpg" height="300">
 
 
-
 ### Shooter Lane & Plunger 
 #### Materials ####
 * Sandpaper
@@ -531,7 +530,7 @@ No CAD components needed for this portion of the pinball machine.
 
 #### Drawings ####
  
-<img src="" height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5703.JPG" height="300">
 
 Here is a diagram that clearly illustrates the shooter lane and plunger mechanism and how it works.
 
@@ -545,9 +544,11 @@ For this part of the project, we only needed to make some minor adjustments. The
 #### Code & Wiring ####
 
 *Code*
+
 No code was used for this project.
 
 *Wiring*
+
 No wiring was used for this project.
 
 #### Final Product ####
