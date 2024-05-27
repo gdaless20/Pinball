@@ -449,9 +449,7 @@ The code used for the pop bumper is the same as the code used for the LCD, as bo
 The wiring used for the LCD is the same as the wiring used for the solenoid, as they are all part of the same circuit. When the switch is pressed by the pop bumper, it activates the solenoid, which pulls the metal bracket down and shoots the ball out.
 
 #### Final Product ####
-<img src=" " height="300">
-<img src=" " height="300">
-<img src=" " height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/gif%20shooter%20lane%20-%20Made%20with%20Clipchamp%20(1).gif" height="300">
 
 
 ### Flippers 
