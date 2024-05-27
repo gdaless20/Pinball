@@ -167,9 +167,9 @@ No wiring was used for this portion of the project.
 #### Final Product ####
 Overall the base and the playfeild were mainly stylistic and didnt require too much work. That being said we were able to gain new skills like how to use resin as neither of us had ever used it prior. It took around 2 months to entierly finish both of these aspects.
 
-<img src=" " height="300">
-<img src=" " height="300">
-
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5704%20(1).JPG" height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5705.JPG" height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5706.JPG" height="300">
 
 
 
@@ -553,8 +553,8 @@ No wiring was used for this project.
 
 #### Final Product ####
 
-<img src="" height="300">
- 
+<img src="https://github.com/elynch78/Pinball/blob/main/images/IMG_5707.JPG" height="300">
+<img src="https://github.com/elynch78/Pinball/blob/main/images/gif%20shooter%20lane%20-%20Made%20with%20Clipchamp.gif" height="300">
 
 
 ## Instructions
